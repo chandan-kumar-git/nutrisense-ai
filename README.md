@@ -6,7 +6,7 @@
 
 AI Nutrition Detection and Diet Suggestion using Deep Learning · IDP P020 · Mentor: Dr. Vivek Sharma
 
-[Try it in the browser](https://nutrisense-ai-p020.vercel.app) · [Download the Android APK](https://github.com/Chandankumar775/nutrisense-ai/releases/latest/download/NutriSense-AI.apk) (12.7 MB)
+[Try it in the browser](https://nutrisense-ai-p020.vercel.app) · [Download the Android APK](https://github.com/chandan-kumar-git/nutrisense-ai/releases/latest/download/NutriSense-AI.apk) (12.7 MB)
 
 <img src="docs/screenshots/desktop.png" alt="NutriSense AI in presentation mode: the phone app with the live pipeline, demo navigator and API activity panels" width="100%">
 
@@ -45,16 +45,16 @@ profile → scan / log meal → requirement estimation → gap analysis → reco
 
 ## Install the Android app
 
-Direct download: [NutriSense-AI.apk](https://github.com/Chandankumar775/nutrisense-ai/releases/latest/download/NutriSense-AI.apk). Allow *Install unknown apps* for your browser or file manager when the phone asks.
+Direct download: [NutriSense-AI.apk](https://github.com/chandan-kumar-git/nutrisense-ai/releases/latest/download/NutriSense-AI.apk). Allow *Install unknown apps* for your browser or file manager when the phone asks.
 
 From the command line:
 
 ```bash
 # Linux / macOS / Git Bash
-curl -L -o NutriSense-AI.apk https://github.com/Chandankumar775/nutrisense-ai/releases/latest/download/NutriSense-AI.apk
+curl -L -o NutriSense-AI.apk https://github.com/chandan-kumar-git/nutrisense-ai/releases/latest/download/NutriSense-AI.apk
 
 # Windows PowerShell
-iwr https://github.com/Chandankumar775/nutrisense-ai/releases/latest/download/NutriSense-AI.apk -OutFile NutriSense-AI.apk
+iwr https://github.com/chandan-kumar-git/nutrisense-ai/releases/latest/download/NutriSense-AI.apk -OutFile NutriSense-AI.apk
 
 # install on a phone connected over USB
 adb install NutriSense-AI.apk
@@ -94,7 +94,7 @@ Everything is computed on the device from a curated knowledge base, so every ans
 ## Run locally
 
 ```bash
-git clone https://github.com/Chandankumar775/nutrisense-ai.git
+git clone https://github.com/chandan-kumar-git/nutrisense-ai.git
 cd nutrisense-ai
 npm install
 npm run dev        # http://localhost:5173
