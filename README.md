@@ -15,7 +15,7 @@
 </p>
 
 <a href="https://github.com/Chandankumar775/nutrisense-ai/releases/latest/download/NutriSense-AI.apk">
-  <img src="https://img.shields.io/badge/⬇%20Download%20APK-14%20MB-C6F432?style=for-the-badge&labelColor=111111"/>
+  <img src="https://img.shields.io/badge/⬇%20Download%20APK-12.7%20MB-C6F432?style=for-the-badge&labelColor=111111"/>
 </a>
 
 <br/><br/>
@@ -41,7 +41,7 @@
 
 ## <img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=600&size=26&pause=99999&color=3FA34D&vCenter=true&width=420&height=40&lines=%E2%9C%A6+Download+the+app" alt="Download"/>
 
-**Direct link:** [NutriSense-AI.apk](https://github.com/Chandankumar775/nutrisense-ai/releases/latest/download/NutriSense-AI.apk) (~14 MB, Android 7+)
+**Direct link:** [NutriSense-AI.apk](https://github.com/Chandankumar775/nutrisense-ai/releases/latest/download/NutriSense-AI.apk) (~12.7 MB)
 
 **Command line:**
 
