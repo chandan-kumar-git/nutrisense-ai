@@ -1,12 +1,12 @@
 <div align="center">
 
-# NutriSense AI
+<img src="docs/brand/wordmark.webp" alt="NutriSense AI" width="100%">
 
 **Snap or log a meal, find out which nutrients you're short on, and get Indian food suggestions that close the gap.**
 
 AI Nutrition Detection and Diet Suggestion using Deep Learning · IDP P020 · Mentor: Dr. Vivek Sharma
 
-[Download the Android APK](https://github.com/Chandankumar775/nutrisense-ai/releases/latest/download/NutriSense-AI.apk) (12.7 MB)
+[Try it in the browser](https://nutrisense-ai-p020.vercel.app) · [Download the Android APK](https://github.com/Chandankumar775/nutrisense-ai/releases/latest/download/NutriSense-AI.apk) (12.7 MB)
 
 <img src="docs/screenshots/desktop.png" alt="NutriSense AI in presentation mode: the phone app with the live pipeline, demo navigator and API activity panels" width="100%">
 
