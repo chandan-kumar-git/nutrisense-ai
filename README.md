@@ -1,137 +1,97 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C6F432,100:3FA34D&height=210&section=header&text=NutriSense%20AI&fontSize=68&fontColor=111111&fontAlign=50&fontAlignY=38&desc=Eat%20smarter.%20Close%20your%20nutrient%20gaps.&descSize=18&descAlignY=60&descAlign=50" width="100%"/>
+# NutriSense AI
 
-<a href="https://github.com/Chandankumar775/nutrisense-ai">
-  <img src="https://readme-typing-svg.demolab.com?font=Urbanist&weight=700&size=24&duration=2800&pause=900&color=3FA34D&center=true&vCenter=true&width=640&lines=Snap+a+meal+%E2%86%92+know+what+you+ate;Find+your+iron%2C+B12%2C+protein+gaps;Indian+food+first+%E2%80%94+dal%2C+roti%2C+poha;AI+coach+in+English+%2B+Hinglish" alt="typing"/>
-</a>
+**Snap or log a meal, find out which nutrients you're short on, and get Indian food suggestions that close the gap.**
 
-<p>
-  <img src="https://img.shields.io/badge/Android-APK-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Vite-5-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Capacitor-8-119EFF?style=for-the-badge&logo=capacitor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-ML-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+AI Nutrition Detection and Diet Suggestion using Deep Learning · IDP P020 · Mentor: Dr. Vivek Sharma
 
-<a href="https://github.com/Chandankumar775/nutrisense-ai/releases/latest/download/NutriSense-AI.apk">
-  <img src="https://img.shields.io/badge/⬇%20Download%20APK-12.7%20MB-C6F432?style=for-the-badge&labelColor=111111"/>
-</a>
+[Download the Android APK](https://github.com/Chandankumar775/nutrisense-ai/releases/latest/download/NutriSense-AI.apk) (12.7 MB)
 
-<br/><br/>
-
-<sub><i>AI Nutrition Detection and Diet Suggestion using Deep Learning · IDP P020 · Mentor: Dr. Vivek Sharma</i></sub>
+<img src="docs/screenshots/desktop.png" alt="NutriSense AI in presentation mode: the phone app with the live pipeline, demo navigator and API activity panels" width="100%">
 
 </div>
 
----
+## What it does
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=600&size=26&pause=99999&color=3FA34D&vCenter=true&width=420&height=40&lines=%E2%9C%A6+What+it+is" alt="What it is"/>
-
-> **Not a calorie counter.** NutriSense AI turns a photo or log of a meal into a *decision*:
-> it estimates your requirements from your profile, finds possible nutrient gaps
-> (iron, vitamin D, B12, protein, calcium, fiber…) and recommends specific Indian foods that close them —
-> with the reason shown (“**+38% iron**”).
+NutriSense is not a calorie counter. It turns a photo or log of a meal into a decision: it estimates your requirements from your profile, finds possible gaps (iron, vitamin D, B12, protein, calcium, fiber…) and recommends specific Indian foods that close them, with the reason shown ("+38% iron").
 
 ```
- profile ─▶ scan / log meal ─▶ requirement estimation ─▶ gap analysis ─▶ recommendations ─▶ coaching
+profile → scan / log meal → requirement estimation → gap analysis → recommendations → coaching
 ```
 
----
+## Screens
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=600&size=26&pause=99999&color=3FA34D&vCenter=true&width=420&height=40&lines=%E2%9C%A6+Download+the+app" alt="Download"/>
+<table>
+  <tr>
+    <td align="center" width="25%"><img src="docs/screenshots/a03-home.png" width="200" alt="Home"><br><sub><b>Home</b><br>calories, macros, 7-day check</sub></td>
+    <td align="center" width="25%"><img src="docs/screenshots/a08-scanresult.png" width="200" alt="Scan result"><br><sub><b>Scan result</b><br>items, grams, confidence</sub></td>
+    <td align="center" width="25%"><img src="docs/screenshots/a09-meal.png" width="200" alt="Meal details"><br><sub><b>Meal details</b><br>portions, micronutrients, swaps</sub></td>
+    <td align="center" width="25%"><img src="docs/screenshots/a13-nutrients.png" width="200" alt="Nutrient gaps"><br><sub><b>Nutrient profile</b><br>11-nutrient gap analysis</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/screenshots/a19-coach.png" width="200" alt="AI Coach"><br><sub><b>AI Coach</b><br>English and Hinglish</sub></td>
+    <td align="center"><img src="docs/screenshots/a17-plan.png" width="200" alt="Meal plan"><br><sub><b>Meal plan</b><br>7 days, built around your gaps</sub></td>
+    <td align="center"><img src="docs/screenshots/a11-progress.png" width="200" alt="Progress"><br><sub><b>Progress</b><br>day to year, score trend</sub></td>
+    <td align="center"><img src="docs/screenshots/a15-diary.png" width="200" alt="Food diary"><br><sub><b>Food diary</b><br>grouped by meal</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/screenshots/a20-goal.png" width="200" alt="Calorie goal"><br><sub><b>Calorie goal</b><br>slider with live macro split</sub></td>
+    <td align="center"><img src="docs/screenshots/a21-profile.png" width="200" alt="Profile"><br><sub><b>Profile</b><br>targets, privacy, export</sub></td>
+    <td align="center"><img src="docs/screenshots/mobile.png" width="200" alt="Mobile web"><br><sub><b>Mobile web</b><br>full screen on a phone</sub></td>
+    <td></td>
+  </tr>
+</table>
 
-**Direct link:** [NutriSense-AI.apk](https://github.com/Chandankumar775/nutrisense-ai/releases/latest/download/NutriSense-AI.apk) (~12.7 MB)
+## Install the Android app
 
-**Command line:**
+Direct download: [NutriSense-AI.apk](https://github.com/Chandankumar775/nutrisense-ai/releases/latest/download/NutriSense-AI.apk). Allow *Install unknown apps* for your browser or file manager when the phone asks.
+
+From the command line:
 
 ```bash
 # Linux / macOS / Git Bash
 curl -L -o NutriSense-AI.apk https://github.com/Chandankumar775/nutrisense-ai/releases/latest/download/NutriSense-AI.apk
-```
 
-```powershell
 # Windows PowerShell
 iwr https://github.com/Chandankumar775/nutrisense-ai/releases/latest/download/NutriSense-AI.apk -OutFile NutriSense-AI.apk
-```
 
-```bash
-# Install straight to a USB-connected phone
+# install on a phone connected over USB
 adb install NutriSense-AI.apk
 ```
 
-> On the phone, allow *Install unknown apps* for your browser / file manager when prompted.
-
----
-
-## <img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=600&size=26&pause=99999&color=3FA34D&vCenter=true&width=420&height=40&lines=%E2%9C%A6+Screenshots" alt="Screenshots"/>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center"><img src="docs/screenshots/a03-home.png" width="200"/><br/><sub><b>Home</b></sub></td>
-    <td align="center"><img src="docs/screenshots/a08-scanresult.png" width="200"/><br/><sub><b>Scan result</b></sub></td>
-    <td align="center"><img src="docs/screenshots/a09-meal.png" width="200"/><br/><sub><b>Meal details</b></sub></td>
-    <td align="center"><img src="docs/screenshots/a13-nutrients.png" width="200"/><br/><sub><b>Nutrient gaps</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="docs/screenshots/a19-coach.png" width="200"/><br/><sub><b>AI Coach</b></sub></td>
-    <td align="center"><img src="docs/screenshots/a17-plan.png" width="200"/><br/><sub><b>7-day meal plan</b></sub></td>
-    <td align="center"><img src="docs/screenshots/a11-progress.png" width="200"/><br/><sub><b>Progress</b></sub></td>
-    <td align="center"><img src="docs/screenshots/a15-diary.png" width="200"/><br/><sub><b>Food diary</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="docs/screenshots/a20-goal.png" width="200"/><br/><sub><b>Calorie goal</b></sub></td>
-    <td align="center"><img src="docs/screenshots/a21-profile.png" width="200"/><br/><sub><b>Profile</b></sub></td>
-    <td align="center" colspan="2"><img src="docs/screenshots/mobile.png" width="200"/><br/><sub><b>Mobile view</b></sub></td>
-  </tr>
-</table>
-
-<img src="docs/screenshots/desktop.png" width="90%"/><br/>
-<sub><i>Desktop presentation mode — phone frame with live pipeline, demo navigator and API activity panels</i></sub>
-
-</div>
-
----
-
-## <img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=600&size=26&pause=99999&color=3FA34D&vCenter=true&width=420&height=40&lines=%E2%9C%A6+Features" alt="Features"/>
+## Features
 
 | Screen | What it does |
 |---|---|
-| 🧭 **Onboarding** | Six steps: about you, body (live BMI), activity, diet + allergies, goal, DPDP-style consent. Ends with your daily target. |
-| 🏠 **Home** | Calorie ring + macros, 7-day nutrient check, AI meal idea, today’s meals, water tracker, weekly score |
-| 📷 **Scan** | Food / Barcode / Label modes, live camera, photo upload, animated 5-stage vision pipeline, confidence + alternatives |
-| 🍛 **Meal details** | Small/Medium/Large portions, 10 micronutrients, smart swaps, add to any meal slot |
-| 📒 **Food diary** | Day-by-day log grouped by meal with source icons |
-| 🔎 **Add food** | 100+ Indian foods, “fits my diet” filter, sort by nutrient density, AI picks |
-| 📈 **Progress** | Day / Week / Month / Year calorie bars, score trend, weight log |
-| 🧪 **Nutrient profile** | 11-nutrient gap analysis with an action plan and food sources |
-| 💬 **AI Coach** | English + Hinglish chat, 25+ intents, voice input, tappable meal cards, medical guardrails |
-| 🗓️ **Meal plan** | 7-day plan optimised for your gaps, swap meals, grocery list, export |
-| 🔐 **Privacy** | Data stays on device, JSON export, erase-all |
+| Onboarding | Six steps: about you, body (live BMI), activity, diet and allergies, goal, consent (DPDP-style). Ends with your daily target. |
+| Home | Calorie ring and macros, 7-day nutrient check, an AI meal idea for the next meal, today's meals, water tracker, weekly score |
+| Scan | Food, barcode and label modes, live camera, photo upload, an animated 5-stage vision pipeline, confidence and alternatives |
+| Meal details | Small/medium/large portions, 10 micronutrients, smart swaps, add to any meal slot |
+| Add food | 100+ Indian foods, "fits my diet" filter, sort by nutrient density, ready-made meals |
+| Nutrient profile | 11-nutrient gap analysis (adequate / needs attention / higher priority) with an action plan and food sources |
+| AI Coach | Chat in English and Hinglish, 25+ intents, voice input, tappable meal cards, medical-boundary handling |
+| Meal plan | 7-day plan optimised for your gaps, swap any meal, grocery list, export |
+| Profile and privacy | BMR, TDEE and RDA targets, consent status, JSON data export, erase-all |
+| How the AI works | Pipeline, model card, approach comparison, limitations |
 
----
-
-## <img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=600&size=26&pause=99999&color=3FA34D&vCenter=true&width=420&height=40&lines=%E2%9C%A6+How+the+AI+works" alt="How the AI works"/>
+## How the AI works in this build
 
 Everything is computed on the device from a curated knowledge base, so every answer is grounded in your own data:
 
-- `src/data/foods.js` — 116 foods × 14 nutrients (IFCT 2017 / USDA)
-- `src/data/meals.js` — 92 meal combos, 28 scan plates, 12 barcode products, 6 nutrition labels
-- `src/engine/nutrition.js` — Mifflin-St Jeor energy, ICMR-NIN 2020 RDAs, gap thresholds, daily score
-- `src/engine/recommend.js` — gap-closing meal ranking, 7-day planner, smart swaps, grocery list
-- `src/engine/coach.js` — rule-based NLU (English + Hinglish), food lookups (“2 roti”), comparisons (“paneer vs chicken”)
-- `src/engine/detector.js` — simulated vision pipeline (food recognition is simulated in this build)
-- `ml/` — Python pipeline: data simulation, cleaning, gap model and recommender training (see [`ml/README.md`](ml/README.md))
+- `src/data/foods.js`: 116 foods × 14 nutrients (IFCT 2017 / USDA reference values)
+- `src/data/meals.js`: 92 meal combinations, 28 scan plates, 12 barcode products, 6 nutrition labels
+- `src/engine/nutrition.js`: Mifflin-St Jeor energy, ICMR-NIN 2020 RDAs, gap thresholds, daily score
+- `src/engine/recommend.js`: gap-closing meal ranking, 7-day planner, smart swaps, grocery list
+- `src/engine/coach.js`: rule-based NLU (English and Hinglish), food lookups ("2 roti"), comparisons ("paneer vs chicken"), medical and supplement guardrails
+- `src/engine/detector.js`: food recognition is **simulated** in this build. Scans rotate through diet-compatible plates; uploading a photo named e.g. `biryani.jpg` returns that dish.
+- `ml/`: the Python side: data simulation, cleaning, and training the gap model and recommender (see [`ml/README.md`](ml/README.md)).
 
-`src/services/api.js` is a single mock backend whose functions mirror REST endpoints (`POST /api/v1/vision/detect`, `/coach/chat`, `/recommend/plan`…) — swap the bodies for `fetch()` calls to connect a real FastAPI + TensorFlow service.
+`src/services/api.js` is a single mock backend whose functions mirror REST endpoints (`POST /api/v1/vision/detect`, `/coach/chat`, `/recommend/plan`, …). Replace their bodies with `fetch()` calls to connect a real FastAPI + TensorFlow service. User data stays in `localStorage` on the device.
 
-> ⚕️ General guidance, not a medical diagnosis.
+> General guidance, not a medical diagnosis.
 
----
-
-## <img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=600&size=26&pause=99999&color=3FA34D&vCenter=true&width=420&height=40&lines=%E2%9C%A6+Run+it+locally" alt="Run locally"/>
+## Run locally
 
 ```bash
 git clone https://github.com/Chandankumar775/nutrisense-ai.git
@@ -140,35 +100,25 @@ npm install
 npm run dev        # http://localhost:5173
 ```
 
-Tap **“Explore with a demo profile”** to load a vegetarian user with two weeks of meal history.
+On a desktop the app runs inside a phone frame with presentation panels (live pipeline, demo navigator, API activity). Tap **Explore with a demo profile** to load a vegetarian user with two weeks of meal history.
 
-**Build the APK yourself:**
+Build the APK yourself:
 
 ```bash
 npm run build
 npx cap sync android
 cd android && ./gradlew assembleDebug
-# → android/app/build/outputs/apk/debug/app-debug.apk
+# -> android/app/build/outputs/apk/debug/app-debug.apk
 ```
 
----
+## Design
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=600&size=26&pause=99999&color=3FA34D&vCenter=true&width=420&height=40&lines=%E2%9C%A6+Design" alt="Design"/>
+Light grey ground, white 28px cards, a lime calendar card, lime-to-leaf gradient bars over hatched tracks, huge hairline numerals ("256 KCAL") and a black floating scan button. Type is Urbanist, self-hosted. The 116 food photos are free-licensed images from Wikimedia Commons, credited in the app.
 
-Light grey ground, white 28px cards, lime calendar card, lime→leaf gradient bars over hatched tracks, huge hairline numerals (“256 KCAL”) and a black floating scan button. Type is **Urbanist** (self-hosted). Food photos are 116 free-licensed images from Wikimedia Commons, credited in-app.
+## Team
 
----
-
-## <img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=600&size=26&pause=99999&color=3FA34D&vCenter=true&width=420&height=40&lines=%E2%9C%A6+Team" alt="Team"/>
-
-Interdisciplinary Design Project **P020** · Mentor **Dr. Vivek Sharma**
+Interdisciplinary Design Project P020, mentor Dr. Vivek Sharma.
 
 | CSE | Law | Management |
 |---|---|---|
-| Garveet Singh · Vishwas Ahuja · **Chandan Kumar** · Reedima | Prerna Singh · Mehak Kamboj | Kushagra Sharma |
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3FA34D,100:C6F432&height=110&section=footer" width="100%"/>
-
-</div>
+| Garveet Singh, Vishwas Ahuja, Chandan Kumar, Reedima | Prerna Singh, Mehak Kamboj | Kushagra Sharma |
