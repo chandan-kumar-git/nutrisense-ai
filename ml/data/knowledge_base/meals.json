@@ -1,0 +1,1823 @@
+[
+ {
+  "id": "b_poha",
+  "name": "Poha + Masala Chai",
+  "type": "breakfast",
+  "items": [
+   {
+    "foodId": "poha",
+    "servings": 1
+   },
+   {
+    "foodId": "chai",
+    "servings": 1
+   }
+  ],
+  "prepMin": 10,
+  "diet": "veg",
+  "allergens": [
+   "dairy"
+  ]
+ },
+ {
+  "id": "b_idli",
+  "name": "Idli Sambar",
+  "type": "breakfast",
+  "items": [
+   {
+    "foodId": "idli",
+    "servings": 1
+   },
+   {
+    "foodId": "sambar",
+    "servings": 1
+   },
+   {
+    "foodId": "coconut_chutney",
+    "servings": 1
+   }
+  ],
+  "prepMin": 15,
+  "diet": "vegan",
+  "allergens": []
+ },
+ {
+  "id": "b_masala_dosa",
+  "name": "Masala Dosa + Sambar",
+  "type": "breakfast",
+  "items": [
+   {
+    "foodId": "masala_dosa",
+    "servings": 1
+   },
+   {
+    "foodId": "sambar",
+    "servings": 1
+   }
+  ],
+  "prepMin": 20,
+  "diet": "vegan",
+  "allergens": []
+ },
+ {
+  "id": "b_besan",
+  "name": "Besan Chilla + Curd",
+  "type": "breakfast",
+  "items": [
+   {
+    "foodId": "besan_chilla",
+    "servings": 1
+   },
+   {
+    "foodId": "curd",
+    "servings": 1
+   }
+  ],
+  "prepMin": 15,
+  "diet": "veg",
+  "allergens": [
+   "dairy"
+  ]
+ },
+ {
+  "id": "b_moong",
+  "name": "Moong Chilla + Salad",
+  "type": "breakfast",
+  "items": [
+   {
+    "foodId": "moong_chilla",
+    "servings": 1
+   },
+   {
+    "foodId": "green_salad",
+    "servings": 0.5
+   }
+  ],
+  "prepMin": 15,
+  "diet": "vegan",
+  "allergens": []
+ },
+ {
+  "id": "b_oats",
+  "name": "Oats Porridge + Banana",
+  "type": "breakfast",
+  "items": [
+   {
+    "foodId": "oats",
+    "servings": 1
+   },
+   {
+    "foodId": "banana",
+    "servings": 1
+   }
+  ],
+  "prepMin": 8,
+  "diet": "veg",
+  "allergens": [
+   "dairy",
+   "gluten"
+  ]
+ },
+ {
+  "id": "b_eggs",
+  "name": "Boiled Eggs + Toast",
+  "type": "breakfast",
+  "items": [
+   {
+    "foodId": "boiled_eggs",
+    "servings": 1
+   },
+   {
+    "foodId": "toast",
+    "servings": 1
+   }
+  ],
+  "prepMin": 10,
+  "diet": "egg",
+  "allergens": [
+   "egg",
+   "gluten",
+   "dairy"
+  ]
+ },
+ {
+  "id": "b_omelette",
+  "name": "Veg Omelette + Orange",
+  "type": "breakfast",
+  "items": [
+   {
+    "foodId": "omelette",
+    "servings": 1
+   },
+   {
+    "foodId": "toast",
+    "servings": 0.5
+   },
+   {
+    "foodId": "orange",
+    "servings": 1
+   }
+  ],
+  "prepMin": 12,
+  "diet": "egg",
+  "allergens": [
+   "egg",
+   "gluten",
+   "dairy"
+  ]
+ },
+ {
+  "id": "b_aloo_paratha",
+  "name": "Aloo Paratha + Curd",
+  "type": "breakfast",
+  "items": [
+   {
+    "foodId": "aloo_paratha",
+    "servings": 1
+   },
+   {
+    "foodId": "curd",
+    "servings": 1
+   }
+  ],
+  "prepMin": 20,
+  "diet": "veg",
+  "allergens": [
+   "gluten",
+   "dairy"
+  ]
+ },
+ {
+  "id": "b_paneer_paratha",
+  "name": "Paneer Paratha + Chai",
+  "type": "breakfast",
+  "items": [
+   {
+    "foodId": "paneer_paratha",
+    "servings": 1
+   },
+   {
+    "foodId": "chai",
+    "servings": 1
+   }
+  ],
+  "prepMin": 20,
+  "diet": "veg",
+  "allergens": [
+   "gluten",
+   "dairy"
+  ]
+ },
+ {
+  "id": "b_upma",
+  "name": "Upma + Coconut Chutney",
+  "type": "breakfast",
+  "items": [
+   {
+    "foodId": "upma",
+    "servings": 1
+   },
+   {
+    "foodId": "coconut_chutney",
+    "servings": 1
+   }
+  ],
+  "prepMin": 15,
+  "diet": "vegan",
+  "allergens": [
+   "gluten"
+  ]
+ },
+ {
+  "id": "b_cereal",
+  "name": "Fortified Cereal + Banana",
+  "type": "breakfast",
+  "items": [
+   {
+    "foodId": "cereal",
+    "servings": 1
+   },
+   {
+    "foodId": "banana",
+    "servings": 0.5
+   }
+  ],
+  "prepMin": 3,
+  "diet": "veg",
+  "allergens": [
+   "dairy",
+   "gluten"
+  ]
+ },
+ {
+  "id": "b_ragi",
+  "name": "Ragi Roti + Curd",
+  "type": "breakfast",
+  "items": [
+   {
+    "foodId": "ragi_roti",
+    "servings": 1
+   },
+   {
+    "foodId": "curd",
+    "servings": 1
+   }
+  ],
+  "prepMin": 15,
+  "diet": "veg",
+  "allergens": [
+   "dairy"
+  ]
+ },
+ {
+  "id": "b_chia",
+  "name": "Chia Pudding + Fruit",
+  "type": "breakfast",
+  "items": [
+   {
+    "foodId": "chia_pudding",
+    "servings": 1
+   },
+   {
+    "foodId": "fruit_bowl",
+    "servings": 0.5
+   }
+  ],
+  "prepMin": 5,
+  "diet": "veg",
+  "allergens": [
+   "dairy"
+  ]
+ },
+ {
+  "id": "b_tofu",
+  "name": "Tofu Scramble + Toast",
+  "type": "breakfast",
+  "items": [
+   {
+    "foodId": "tofu_scramble",
+    "servings": 1
+   },
+   {
+    "foodId": "pb_toast",
+    "servings": 0.5
+   }
+  ],
+  "prepMin": 12,
+  "diet": "vegan",
+  "allergens": [
+   "soy",
+   "gluten",
+   "nuts"
+  ]
+ },
+ {
+  "id": "b_sprouts",
+  "name": "Sprouts Salad + Guava",
+  "type": "breakfast",
+  "items": [
+   {
+    "foodId": "sprouts",
+    "servings": 1
+   },
+   {
+    "foodId": "guava",
+    "servings": 1
+   }
+  ],
+  "prepMin": 8,
+  "diet": "vegan",
+  "allergens": []
+ },
+ {
+  "id": "b_thepla",
+  "name": "Methi Thepla + Curd",
+  "type": "breakfast",
+  "items": [
+   {
+    "foodId": "methi_thepla",
+    "servings": 1
+   },
+   {
+    "foodId": "curd",
+    "servings": 1
+   }
+  ],
+  "prepMin": 15,
+  "diet": "veg",
+  "allergens": [
+   "gluten",
+   "dairy"
+  ]
+ },
+ {
+  "id": "b_dalia",
+  "name": "Vegetable Dalia + Almonds",
+  "type": "breakfast",
+  "items": [
+   {
+    "foodId": "dalia",
+    "servings": 1
+   },
+   {
+    "foodId": "almonds",
+    "servings": 1
+   }
+  ],
+  "prepMin": 15,
+  "diet": "vegan",
+  "allergens": [
+   "gluten",
+   "nuts"
+  ]
+ },
+ {
+  "id": "b_avocado",
+  "name": "Avocado Toast + Coffee",
+  "type": "breakfast",
+  "items": [
+   {
+    "foodId": "avocado_toast",
+    "servings": 1
+   },
+   {
+    "foodId": "coffee",
+    "servings": 1
+   }
+  ],
+  "prepMin": 8,
+  "diet": "vegan",
+  "allergens": [
+   "gluten"
+  ]
+ },
+ {
+  "id": "b_bhurji",
+  "name": "Egg Bhurji + 2 Roti",
+  "type": "breakfast",
+  "items": [
+   {
+    "foodId": "egg_bhurji",
+    "servings": 1
+   },
+   {
+    "foodId": "roti",
+    "servings": 2
+   }
+  ],
+  "prepMin": 15,
+  "diet": "egg",
+  "allergens": [
+   "egg",
+   "gluten"
+  ]
+ },
+ {
+  "id": "b_smoothie",
+  "name": "Banana Peanut Smoothie",
+  "type": "breakfast",
+  "items": [
+   {
+    "foodId": "smoothie",
+    "servings": 1
+   },
+   {
+    "foodId": "almonds",
+    "servings": 0.5
+   }
+  ],
+  "prepMin": 5,
+  "diet": "veg",
+  "allergens": [
+   "dairy",
+   "nuts"
+  ]
+ },
+ {
+  "id": "b_milk_oats",
+  "name": "Milk + PB Toast",
+  "type": "breakfast",
+  "items": [
+   {
+    "foodId": "milk",
+    "servings": 1
+   },
+   {
+    "foodId": "pb_toast",
+    "servings": 1
+   }
+  ],
+  "prepMin": 5,
+  "diet": "veg",
+  "allergens": [
+   "dairy",
+   "gluten",
+   "nuts"
+  ]
+ },
+ {
+  "id": "m_dal_roti",
+  "name": "Dal Tadka + Roti",
+  "type": "main",
+  "items": [
+   {
+    "foodId": "dal_tadka",
+    "servings": 1
+   },
+   {
+    "foodId": "roti",
+    "servings": 2
+   }
+  ],
+  "prepMin": 20,
+  "diet": "vegan",
+  "allergens": [
+   "gluten"
+  ]
+ },
+ {
+  "id": "m_dal_rice",
+  "name": "Dal Tadka + Jeera Rice",
+  "type": "main",
+  "items": [
+   {
+    "foodId": "dal_tadka",
+    "servings": 1
+   },
+   {
+    "foodId": "jeera_rice",
+    "servings": 1
+   },
+   {
+    "foodId": "mixed_veg",
+    "servings": 1
+   }
+  ],
+  "prepMin": 30,
+  "diet": "vegan",
+  "allergens": []
+ },
+ {
+  "id": "m_rajma",
+  "name": "Rajma Chawal",
+  "type": "main",
+  "items": [
+   {
+    "foodId": "rajma",
+    "servings": 1
+   },
+   {
+    "foodId": "rice",
+    "servings": 1
+   },
+   {
+    "foodId": "green_salad",
+    "servings": 0.5
+   }
+  ],
+  "prepMin": 35,
+  "diet": "vegan",
+  "allergens": []
+ },
+ {
+  "id": "m_chole",
+  "name": "Chole + 2 Roti",
+  "type": "main",
+  "items": [
+   {
+    "foodId": "chole",
+    "servings": 1
+   },
+   {
+    "foodId": "roti",
+    "servings": 2
+   },
+   {
+    "foodId": "green_salad",
+    "servings": 0.5
+   }
+  ],
+  "prepMin": 30,
+  "diet": "vegan",
+  "allergens": [
+   "gluten"
+  ]
+ },
+ {
+  "id": "m_palak_dal",
+  "name": "Palak Dal + 2 Roti",
+  "type": "main",
+  "items": [
+   {
+    "foodId": "palak_dal",
+    "servings": 1
+   },
+   {
+    "foodId": "roti",
+    "servings": 2
+   }
+  ],
+  "prepMin": 25,
+  "diet": "vegan",
+  "allergens": [
+   "gluten"
+  ]
+ },
+ {
+  "id": "m_palak_paneer",
+  "name": "Palak Paneer + Roti",
+  "type": "main",
+  "items": [
+   {
+    "foodId": "palak_paneer",
+    "servings": 1
+   },
+   {
+    "foodId": "roti",
+    "servings": 2
+   }
+  ],
+  "prepMin": 30,
+  "diet": "veg",
+  "allergens": [
+   "dairy",
+   "gluten"
+  ]
+ },
+ {
+  "id": "m_kadhi",
+  "name": "Kadhi Chawal",
+  "type": "main",
+  "items": [
+   {
+    "foodId": "kadhi",
+    "servings": 1
+   },
+   {
+    "foodId": "rice",
+    "servings": 1
+   }
+  ],
+  "prepMin": 30,
+  "diet": "veg",
+  "allergens": [
+   "dairy"
+  ]
+ },
+ {
+  "id": "m_thali",
+  "name": "Home-style Thali",
+  "type": "main",
+  "items": [
+   {
+    "foodId": "dal_tadka",
+    "servings": 1
+   },
+   {
+    "foodId": "rice",
+    "servings": 0.75
+   },
+   {
+    "foodId": "roti",
+    "servings": 1
+   },
+   {
+    "foodId": "mixed_veg",
+    "servings": 1
+   },
+   {
+    "foodId": "curd",
+    "servings": 0.5
+   }
+  ],
+  "prepMin": 40,
+  "diet": "veg",
+  "allergens": [
+   "gluten",
+   "dairy"
+  ]
+ },
+ {
+  "id": "m_khichdi",
+  "name": "Moong Khichdi + Curd",
+  "type": "main",
+  "items": [
+   {
+    "foodId": "khichdi",
+    "servings": 1
+   },
+   {
+    "foodId": "curd",
+    "servings": 0.5
+   }
+  ],
+  "prepMin": 25,
+  "diet": "veg",
+  "allergens": [
+   "dairy"
+  ]
+ },
+ {
+  "id": "m_curd_rice",
+  "name": "Curd Rice + Salad",
+  "type": "main",
+  "items": [
+   {
+    "foodId": "curd_rice",
+    "servings": 1
+   },
+   {
+    "foodId": "green_salad",
+    "servings": 1
+   }
+  ],
+  "prepMin": 15,
+  "diet": "veg",
+  "allergens": [
+   "dairy"
+  ]
+ },
+ {
+  "id": "m_soya",
+  "name": "Soya Chunks Curry + Roti",
+  "type": "main",
+  "items": [
+   {
+    "foodId": "soya_curry",
+    "servings": 1
+   },
+   {
+    "foodId": "roti",
+    "servings": 2
+   }
+  ],
+  "prepMin": 30,
+  "diet": "vegan",
+  "allergens": [
+   "soy",
+   "gluten"
+  ]
+ },
+ {
+  "id": "m_tofu",
+  "name": "Tofu Stir Fry + Brown Rice",
+  "type": "main",
+  "items": [
+   {
+    "foodId": "tofu_stirfry",
+    "servings": 1
+   },
+   {
+    "foodId": "brown_rice",
+    "servings": 1
+   }
+  ],
+  "prepMin": 25,
+  "diet": "vegan",
+  "allergens": [
+   "soy"
+  ]
+ },
+ {
+  "id": "m_quinoa",
+  "name": "Quinoa Salad Bowl",
+  "type": "main",
+  "items": [
+   {
+    "foodId": "quinoa_salad",
+    "servings": 1
+   }
+  ],
+  "prepMin": 20,
+  "diet": "vegan",
+  "allergens": []
+ },
+ {
+  "id": "m_saag",
+  "name": "Sarson Saag + Makki Roti",
+  "type": "main",
+  "items": [
+   {
+    "foodId": "sarson_saag",
+    "servings": 1
+   },
+   {
+    "foodId": "makki_roti",
+    "servings": 2
+   }
+  ],
+  "prepMin": 40,
+  "diet": "veg",
+  "allergens": [
+   "dairy"
+  ]
+ },
+ {
+  "id": "m_bhindi",
+  "name": "Bhindi + Dal + Roti",
+  "type": "main",
+  "items": [
+   {
+    "foodId": "bhindi",
+    "servings": 1
+   },
+   {
+    "foodId": "dal_tadka",
+    "servings": 0.75
+   },
+   {
+    "foodId": "roti",
+    "servings": 2
+   }
+  ],
+  "prepMin": 30,
+  "diet": "vegan",
+  "allergens": [
+   "gluten"
+  ]
+ },
+ {
+  "id": "m_aloo_gobi",
+  "name": "Aloo Gobi + Roti + Curd",
+  "type": "main",
+  "items": [
+   {
+    "foodId": "aloo_gobi",
+    "servings": 1
+   },
+   {
+    "foodId": "roti",
+    "servings": 2
+   },
+   {
+    "foodId": "curd",
+    "servings": 0.5
+   }
+  ],
+  "prepMin": 30,
+  "diet": "veg",
+  "allergens": [
+   "gluten",
+   "dairy"
+  ]
+ },
+ {
+  "id": "m_baingan",
+  "name": "Baingan Bharta + Dal + Roti",
+  "type": "main",
+  "items": [
+   {
+    "foodId": "baingan_bharta",
+    "servings": 1
+   },
+   {
+    "foodId": "dal_tadka",
+    "servings": 0.75
+   },
+   {
+    "foodId": "roti",
+    "servings": 2
+   }
+  ],
+  "prepMin": 35,
+  "diet": "vegan",
+  "allergens": [
+   "gluten"
+  ]
+ },
+ {
+  "id": "m_mushroom",
+  "name": "Mushroom Masala + Roti",
+  "type": "main",
+  "items": [
+   {
+    "foodId": "mushroom_masala",
+    "servings": 1
+   },
+   {
+    "foodId": "roti",
+    "servings": 2
+   },
+   {
+    "foodId": "green_salad",
+    "servings": 0.5
+   }
+  ],
+  "prepMin": 25,
+  "diet": "vegan",
+  "allergens": [
+   "gluten"
+  ]
+ },
+ {
+  "id": "m_paneer_tikka",
+  "name": "Paneer Tikka + Salad",
+  "type": "main",
+  "items": [
+   {
+    "foodId": "paneer_tikka",
+    "servings": 1
+   },
+   {
+    "foodId": "green_salad",
+    "servings": 1
+   }
+  ],
+  "prepMin": 25,
+  "diet": "veg",
+  "allergens": [
+   "dairy"
+  ]
+ },
+ {
+  "id": "m_veg_biryani",
+  "name": "Veg Biryani + Raita",
+  "type": "main",
+  "items": [
+   {
+    "foodId": "veg_biryani",
+    "servings": 1
+   },
+   {
+    "foodId": "curd",
+    "servings": 0.5
+   }
+  ],
+  "prepMin": 40,
+  "diet": "veg",
+  "allergens": [
+   "dairy"
+  ]
+ },
+ {
+  "id": "m_pulao",
+  "name": "Veg Pulao + Raita",
+  "type": "main",
+  "items": [
+   {
+    "foodId": "veg_pulao",
+    "servings": 1
+   },
+   {
+    "foodId": "curd",
+    "servings": 0.75
+   }
+  ],
+  "prepMin": 30,
+  "diet": "veg",
+  "allergens": [
+   "dairy"
+  ]
+ },
+ {
+  "id": "m_pbm",
+  "name": "Paneer Butter Masala + Roti",
+  "type": "main",
+  "items": [
+   {
+    "foodId": "paneer_butter_masala",
+    "servings": 1
+   },
+   {
+    "foodId": "roti",
+    "servings": 2
+   }
+  ],
+  "prepMin": 35,
+  "diet": "veg",
+  "allergens": [
+   "dairy",
+   "nuts",
+   "gluten"
+  ]
+ },
+ {
+  "id": "m_soup_sandwich",
+  "name": "Tomato Soup + Egg Sandwich",
+  "type": "main",
+  "items": [
+   {
+    "foodId": "tomato_soup",
+    "servings": 1
+   },
+   {
+    "foodId": "egg_sandwich",
+    "servings": 1
+   }
+  ],
+  "prepMin": 15,
+  "diet": "egg",
+  "allergens": [
+   "dairy",
+   "gluten",
+   "egg"
+  ]
+ },
+ {
+  "id": "m_egg_curry",
+  "name": "Egg Curry + 2 Roti",
+  "type": "main",
+  "items": [
+   {
+    "foodId": "egg_curry",
+    "servings": 1
+   },
+   {
+    "foodId": "roti",
+    "servings": 2
+   }
+  ],
+  "prepMin": 30,
+  "diet": "egg",
+  "allergens": [
+   "egg",
+   "gluten"
+  ]
+ },
+ {
+  "id": "m_chicken_curry",
+  "name": "Chicken Curry + Rice",
+  "type": "main",
+  "items": [
+   {
+    "foodId": "chicken_curry",
+    "servings": 1
+   },
+   {
+    "foodId": "rice",
+    "servings": 1
+   }
+  ],
+  "prepMin": 40,
+  "diet": "nonveg",
+  "allergens": []
+ },
+ {
+  "id": "m_chicken_biryani",
+  "name": "Chicken Biryani + Raita",
+  "type": "main",
+  "items": [
+   {
+    "foodId": "chicken_biryani",
+    "servings": 1
+   },
+   {
+    "foodId": "curd",
+    "servings": 0.5
+   }
+  ],
+  "prepMin": 45,
+  "diet": "nonveg",
+  "allergens": [
+   "dairy"
+  ]
+ },
+ {
+  "id": "m_fish_curry",
+  "name": "Fish Curry + Rice",
+  "type": "main",
+  "items": [
+   {
+    "foodId": "fish_curry",
+    "servings": 1
+   },
+   {
+    "foodId": "rice",
+    "servings": 1
+   }
+  ],
+  "prepMin": 35,
+  "diet": "nonveg",
+  "allergens": [
+   "seafood"
+  ]
+ },
+ {
+  "id": "m_tandoori",
+  "name": "Tandoori Chicken + Salad",
+  "type": "main",
+  "items": [
+   {
+    "foodId": "tandoori_chicken",
+    "servings": 1
+   },
+   {
+    "foodId": "green_salad",
+    "servings": 1
+   },
+   {
+    "foodId": "roti",
+    "servings": 1
+   }
+  ],
+  "prepMin": 30,
+  "diet": "nonveg",
+  "allergens": [
+   "dairy",
+   "gluten"
+  ]
+ },
+ {
+  "id": "m_salmon",
+  "name": "Grilled Salmon + Brown Rice",
+  "type": "main",
+  "items": [
+   {
+    "foodId": "salmon",
+    "servings": 1
+   },
+   {
+    "foodId": "brown_rice",
+    "servings": 1
+   },
+   {
+    "foodId": "green_salad",
+    "servings": 0.5
+   }
+  ],
+  "prepMin": 25,
+  "diet": "nonveg",
+  "allergens": [
+   "seafood"
+  ]
+ },
+ {
+  "id": "m_mutton",
+  "name": "Mutton Curry + Rice",
+  "type": "main",
+  "items": [
+   {
+    "foodId": "mutton_curry",
+    "servings": 1
+   },
+   {
+    "foodId": "rice",
+    "servings": 1
+   }
+  ],
+  "prepMin": 60,
+  "diet": "nonveg",
+  "allergens": []
+ },
+ {
+  "id": "m_prawn",
+  "name": "Prawn Curry + Rice",
+  "type": "main",
+  "items": [
+   {
+    "foodId": "prawn_curry",
+    "servings": 1
+   },
+   {
+    "foodId": "rice",
+    "servings": 1
+   }
+  ],
+  "prepMin": 35,
+  "diet": "nonveg",
+  "allergens": [
+   "seafood"
+  ]
+ },
+ {
+  "id": "m_butter_chicken",
+  "name": "Butter Chicken + Roti",
+  "type": "main",
+  "items": [
+   {
+    "foodId": "butter_chicken",
+    "servings": 1
+   },
+   {
+    "foodId": "roti",
+    "servings": 2
+   }
+  ],
+  "prepMin": 40,
+  "diet": "nonveg",
+  "allergens": [
+   "dairy",
+   "nuts",
+   "gluten"
+  ]
+ },
+ {
+  "id": "m_chicken_quinoa",
+  "name": "Grilled Chicken Quinoa Bowl",
+  "type": "main",
+  "items": [
+   {
+    "foodId": "chicken_quinoa",
+    "servings": 1
+   }
+  ],
+  "prepMin": 30,
+  "diet": "nonveg",
+  "allergens": []
+ },
+ {
+  "id": "m_grilled_chicken",
+  "name": "Grilled Chicken + Salad",
+  "type": "main",
+  "items": [
+   {
+    "foodId": "grilled_chicken",
+    "servings": 1
+   },
+   {
+    "foodId": "green_salad",
+    "servings": 1
+   },
+   {
+    "foodId": "brown_rice",
+    "servings": 0.5
+   }
+  ],
+  "prepMin": 25,
+  "diet": "nonveg",
+  "allergens": []
+ },
+ {
+  "id": "m_caesar",
+  "name": "Chicken Caesar Salad",
+  "type": "main",
+  "items": [
+   {
+    "foodId": "caesar_salad",
+    "servings": 1
+   }
+  ],
+  "prepMin": 15,
+  "diet": "nonveg",
+  "allergens": [
+   "dairy",
+   "gluten",
+   "egg"
+  ]
+ },
+ {
+  "id": "m_pasta_red",
+  "name": "Arrabbiata Pasta + Salad",
+  "type": "main",
+  "items": [
+   {
+    "foodId": "pasta_red",
+    "servings": 1
+   },
+   {
+    "foodId": "green_salad",
+    "servings": 0.5
+   }
+  ],
+  "prepMin": 25,
+  "diet": "vegan",
+  "allergens": [
+   "gluten"
+  ]
+ },
+ {
+  "id": "m_fish_fry",
+  "name": "Fish Fry + Dal + Rice",
+  "type": "main",
+  "items": [
+   {
+    "foodId": "fish_fry",
+    "servings": 1
+   },
+   {
+    "foodId": "dal_tadka",
+    "servings": 0.5
+   },
+   {
+    "foodId": "rice",
+    "servings": 1
+   }
+  ],
+  "prepMin": 35,
+  "diet": "nonveg",
+  "allergens": [
+   "seafood"
+  ]
+ },
+ {
+  "id": "s_chana",
+  "name": "Roasted Chana",
+  "type": "snack",
+  "items": [
+   {
+    "foodId": "roasted_chana",
+    "servings": 1
+   }
+  ],
+  "prepMin": 1,
+  "diet": "vegan",
+  "allergens": []
+ },
+ {
+  "id": "s_makhana",
+  "name": "Roasted Makhana",
+  "type": "snack",
+  "items": [
+   {
+    "foodId": "makhana",
+    "servings": 1
+   }
+  ],
+  "prepMin": 5,
+  "diet": "vegan",
+  "allergens": []
+ },
+ {
+  "id": "s_nuts",
+  "name": "Almonds + Walnuts",
+  "type": "snack",
+  "items": [
+   {
+    "foodId": "almonds",
+    "servings": 1
+   },
+   {
+    "foodId": "walnuts",
+    "servings": 1
+   }
+  ],
+  "prepMin": 1,
+  "diet": "vegan",
+  "allergens": [
+   "nuts"
+  ]
+ },
+ {
+  "id": "s_fruit",
+  "name": "Mixed Fruit Bowl",
+  "type": "snack",
+  "items": [
+   {
+    "foodId": "fruit_bowl",
+    "servings": 1
+   }
+  ],
+  "prepMin": 5,
+  "diet": "vegan",
+  "allergens": []
+ },
+ {
+  "id": "s_yogurt",
+  "name": "Greek Yogurt + Fruit",
+  "type": "snack",
+  "items": [
+   {
+    "foodId": "greek_yogurt",
+    "servings": 1
+   },
+   {
+    "foodId": "banana",
+    "servings": 0.5
+   }
+  ],
+  "prepMin": 3,
+  "diet": "veg",
+  "allergens": [
+   "dairy"
+  ]
+ },
+ {
+  "id": "s_sprouts",
+  "name": "Sprouts Chaat",
+  "type": "snack",
+  "items": [
+   {
+    "foodId": "sprouts",
+    "servings": 1
+   }
+  ],
+  "prepMin": 10,
+  "diet": "vegan",
+  "allergens": []
+ },
+ {
+  "id": "s_dhokla",
+  "name": "Dhokla",
+  "type": "snack",
+  "items": [
+   {
+    "foodId": "dhokla",
+    "servings": 1
+   }
+  ],
+  "prepMin": 5,
+  "diet": "vegan",
+  "allergens": []
+ },
+ {
+  "id": "s_chikki",
+  "name": "Peanut Chikki",
+  "type": "snack",
+  "items": [
+   {
+    "foodId": "peanut_chikki",
+    "servings": 1
+   }
+  ],
+  "prepMin": 1,
+  "diet": "vegan",
+  "allergens": [
+   "nuts"
+  ]
+ },
+ {
+  "id": "s_dates",
+  "name": "Dates + Almonds",
+  "type": "snack",
+  "items": [
+   {
+    "foodId": "dates",
+    "servings": 1
+   },
+   {
+    "foodId": "almonds",
+    "servings": 1
+   }
+  ],
+  "prepMin": 1,
+  "diet": "vegan",
+  "allergens": [
+   "nuts"
+  ]
+ },
+ {
+  "id": "s_coconut",
+  "name": "Coconut Water + Banana",
+  "type": "snack",
+  "items": [
+   {
+    "foodId": "coconut_water",
+    "servings": 1
+   },
+   {
+    "foodId": "banana",
+    "servings": 1
+   }
+  ],
+  "prepMin": 2,
+  "diet": "vegan",
+  "allergens": []
+ },
+ {
+  "id": "s_shake",
+  "name": "Whey Protein Shake",
+  "type": "snack",
+  "items": [
+   {
+    "foodId": "protein_shake",
+    "servings": 1
+   }
+  ],
+  "prepMin": 3,
+  "diet": "veg",
+  "allergens": [
+   "dairy"
+  ]
+ },
+ {
+  "id": "s_bhel",
+  "name": "Bhel Puri",
+  "type": "snack",
+  "items": [
+   {
+    "foodId": "bhel",
+    "servings": 1
+   }
+  ],
+  "prepMin": 10,
+  "diet": "vegan",
+  "allergens": []
+ },
+ {
+  "id": "s_chaas",
+  "name": "Chaas + Roasted Chana",
+  "type": "snack",
+  "items": [
+   {
+    "foodId": "chaas",
+    "servings": 1
+   },
+   {
+    "foodId": "roasted_chana",
+    "servings": 1
+   }
+  ],
+  "prepMin": 3,
+  "diet": "veg",
+  "allergens": [
+   "dairy"
+  ]
+ },
+ {
+  "id": "s_guava",
+  "name": "Guava + Jaggery",
+  "type": "snack",
+  "items": [
+   {
+    "foodId": "guava",
+    "servings": 1
+   },
+   {
+    "foodId": "jaggery",
+    "servings": 1
+   }
+  ],
+  "prepMin": 1,
+  "diet": "vegan",
+  "allergens": []
+ },
+ {
+  "id": "s_hummus",
+  "name": "Hummus + Veggie Sticks",
+  "type": "snack",
+  "items": [
+   {
+    "foodId": "hummus_veggies",
+    "servings": 1
+   }
+  ],
+  "prepMin": 10,
+  "diet": "vegan",
+  "allergens": []
+ },
+ {
+  "id": "s_milk",
+  "name": "Glass of Fortified Milk",
+  "type": "snack",
+  "items": [
+   {
+    "foodId": "milk",
+    "servings": 1
+   }
+  ],
+  "prepMin": 2,
+  "diet": "veg",
+  "allergens": [
+   "dairy"
+  ]
+ },
+ {
+  "id": "s_dark_choc",
+  "name": "Dark Chocolate + Walnuts",
+  "type": "snack",
+  "items": [
+   {
+    "foodId": "dark_chocolate",
+    "servings": 1
+   },
+   {
+    "foodId": "walnuts",
+    "servings": 1
+   }
+  ],
+  "prepMin": 1,
+  "diet": "vegan",
+  "allergens": [
+   "nuts"
+  ]
+ },
+ {
+  "id": "s_veg_sandwich",
+  "name": "Grilled Veg Sandwich",
+  "type": "snack",
+  "items": [
+   {
+    "foodId": "veg_sandwich",
+    "servings": 1
+   }
+  ],
+  "prepMin": 10,
+  "diet": "veg",
+  "allergens": [
+   "gluten",
+   "dairy"
+  ]
+ },
+ {
+  "id": "j_pizza",
+  "name": "Margherita Pizza",
+  "type": "junk",
+  "items": [
+   {
+    "foodId": "pizza",
+    "servings": 1
+   }
+  ],
+  "prepMin": 20,
+  "diet": "veg",
+  "allergens": [
+   "gluten",
+   "dairy"
+  ]
+ },
+ {
+  "id": "j_burger",
+  "name": "Burger, Fries + Cola",
+  "type": "junk",
+  "items": [
+   {
+    "foodId": "veg_burger",
+    "servings": 1
+   },
+   {
+    "foodId": "fries",
+    "servings": 1
+   },
+   {
+    "foodId": "cola",
+    "servings": 1
+   }
+  ],
+  "prepMin": 15,
+  "diet": "veg",
+  "allergens": [
+   "gluten",
+   "dairy"
+  ]
+ },
+ {
+  "id": "j_chicken_burger",
+  "name": "Chicken Burger + Fries",
+  "type": "junk",
+  "items": [
+   {
+    "foodId": "chicken_burger",
+    "servings": 1
+   },
+   {
+    "foodId": "fries",
+    "servings": 1
+   }
+  ],
+  "prepMin": 15,
+  "diet": "nonveg",
+  "allergens": [
+   "gluten",
+   "egg"
+  ]
+ },
+ {
+  "id": "j_samosa",
+  "name": "Samosa + Chai",
+  "type": "junk",
+  "items": [
+   {
+    "foodId": "samosa",
+    "servings": 2
+   },
+   {
+    "foodId": "chai",
+    "servings": 1
+   }
+  ],
+  "prepMin": 10,
+  "diet": "veg",
+  "allergens": [
+   "gluten",
+   "dairy"
+  ]
+ },
+ {
+  "id": "j_vada_pav",
+  "name": "Vada Pav",
+  "type": "junk",
+  "items": [
+   {
+    "foodId": "vada_pav",
+    "servings": 1
+   }
+  ],
+  "prepMin": 5,
+  "diet": "vegan",
+  "allergens": [
+   "gluten"
+  ]
+ },
+ {
+  "id": "j_pani_puri",
+  "name": "Pani Puri",
+  "type": "junk",
+  "items": [
+   {
+    "foodId": "pani_puri",
+    "servings": 1
+   }
+  ],
+  "prepMin": 10,
+  "diet": "vegan",
+  "allergens": [
+   "gluten"
+  ]
+ },
+ {
+  "id": "j_pav_bhaji",
+  "name": "Pav Bhaji",
+  "type": "junk",
+  "items": [
+   {
+    "foodId": "pav_bhaji",
+    "servings": 1
+   }
+  ],
+  "prepMin": 25,
+  "diet": "veg",
+  "allergens": [
+   "gluten",
+   "dairy"
+  ]
+ },
+ {
+  "id": "j_chole_bhature",
+  "name": "Chole Bhature",
+  "type": "junk",
+  "items": [
+   {
+    "foodId": "chole_bhature",
+    "servings": 1
+   }
+  ],
+  "prepMin": 30,
+  "diet": "veg",
+  "allergens": [
+   "gluten",
+   "dairy"
+  ]
+ },
+ {
+  "id": "j_momos",
+  "name": "Veg Momos",
+  "type": "junk",
+  "items": [
+   {
+    "foodId": "veg_momos",
+    "servings": 1
+   }
+  ],
+  "prepMin": 20,
+  "diet": "vegan",
+  "allergens": [
+   "gluten"
+  ]
+ },
+ {
+  "id": "j_chicken_momos",
+  "name": "Chicken Momos",
+  "type": "junk",
+  "items": [
+   {
+    "foodId": "chicken_momos",
+    "servings": 1
+   }
+  ],
+  "prepMin": 20,
+  "diet": "nonveg",
+  "allergens": [
+   "gluten"
+  ]
+ },
+ {
+  "id": "j_maggi",
+  "name": "Instant Noodles",
+  "type": "junk",
+  "items": [
+   {
+    "foodId": "maggi",
+    "servings": 1
+   }
+  ],
+  "prepMin": 5,
+  "diet": "vegan",
+  "allergens": [
+   "gluten"
+  ]
+ },
+ {
+  "id": "j_pasta",
+  "name": "White Sauce Pasta",
+  "type": "junk",
+  "items": [
+   {
+    "foodId": "pasta_white",
+    "servings": 1
+   }
+  ],
+  "prepMin": 20,
+  "diet": "veg",
+  "allergens": [
+   "gluten",
+   "dairy"
+  ]
+ },
+ {
+  "id": "j_hakka",
+  "name": "Hakka Noodles",
+  "type": "junk",
+  "items": [
+   {
+    "foodId": "hakka_noodles",
+    "servings": 1
+   }
+  ],
+  "prepMin": 20,
+  "diet": "vegan",
+  "allergens": [
+   "gluten",
+   "soy"
+  ]
+ },
+ {
+  "id": "j_fried_rice",
+  "name": "Veg Fried Rice",
+  "type": "junk",
+  "items": [
+   {
+    "foodId": "fried_rice",
+    "servings": 1
+   }
+  ],
+  "prepMin": 20,
+  "diet": "vegan",
+  "allergens": [
+   "soy"
+  ]
+ },
+ {
+  "id": "j_gulab",
+  "name": "Gulab Jamun",
+  "type": "junk",
+  "items": [
+   {
+    "foodId": "gulab_jamun",
+    "servings": 1
+   }
+  ],
+  "prepMin": 5,
+  "diet": "veg",
+  "allergens": [
+   "dairy",
+   "gluten"
+  ]
+ },
+ {
+  "id": "j_kheer",
+  "name": "Rice Kheer",
+  "type": "junk",
+  "items": [
+   {
+    "foodId": "kheer",
+    "servings": 1
+   }
+  ],
+  "prepMin": 40,
+  "diet": "veg",
+  "allergens": [
+   "dairy",
+   "nuts"
+  ]
+ }
+]

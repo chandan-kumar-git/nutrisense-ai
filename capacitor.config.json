@@ -1,0 +1,8 @@
+{
+  "appId": "com.p020.nutrisense",
+  "appName": "NutriSense AI",
+  "webDir": "dist",
+  "android": {
+    "backgroundColor": "#f3f4f0"
+  }
+}

@@ -1,0 +1,27 @@
+# NutriSense AI · IDP P020: pipeline configuration
+# Every stage reads from here so a run is reproducible end to end.
+
+seed: 2026
+
+simulation:            # synthetic cohort (no real user data exists yet)
+  n_users: 1200
+  days_per_user: 14
+  explore_rate: 0.20   # share of meals picked outside a user's habits
+  noise:
+    duplicate_rate: 0.03
+    typo_rate: 0.04
+    missing_servings_rate: 0.02
+    outlier_rate: 0.007
+    unknown_food_rate: 0.01
+
+gap_model:
+  history_days: 3      # what the model sees
+  horizon_days: 7      # what it predicts (next week's average status)
+  nutrients: [iron, vitD, b12, calcium, protein, fiber]
+  model_nutrients: [iron, b12, calcium, protein, fiber]   # vitamin D is ~98% "priority" in the cohort: handled by rule
+  test_size: 0.2
+  thresholds: { adequate: 0.80, attention: 0.50 }   # share of RDA
+
+recommender:
+  suggestions_per_day: 3
+  test_size: 0.2

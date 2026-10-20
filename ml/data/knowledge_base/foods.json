@@ -1,0 +1,3551 @@
+[
+ {
+  "id": "poha",
+  "name": "Poha",
+  "category": "breakfast",
+  "grams": 150,
+  "serving": "1 plate",
+  "n": {
+   "kcal": 270,
+   "protein": 5,
+   "carbs": 46,
+   "fat": 8,
+   "fiber": 3,
+   "iron": 2.8,
+   "calcium": 20,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 6,
+   "folate": 20,
+   "zinc": 0.8,
+   "magnesium": 30,
+   "omega3": 0.05
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#F6D86B",
+  "tags": [
+   "light",
+   "indian"
+  ]
+ },
+ {
+  "id": "upma",
+  "name": "Upma",
+  "category": "breakfast",
+  "grams": 180,
+  "serving": "1 bowl",
+  "n": {
+   "kcal": 290,
+   "protein": 7,
+   "carbs": 42,
+   "fat": 10,
+   "fiber": 3,
+   "iron": 1.5,
+   "calcium": 30,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 3,
+   "folate": 25,
+   "zinc": 0.9,
+   "magnesium": 35,
+   "omega3": 0.05
+  },
+  "diet": "vegan",
+  "allergens": [
+   "gluten"
+  ],
+  "color": "#F3E3B0",
+  "tags": [
+   "indian"
+  ]
+ },
+ {
+  "id": "idli",
+  "name": "Idli (3 pcs)",
+  "category": "breakfast",
+  "grams": 150,
+  "serving": "3 pieces",
+  "n": {
+   "kcal": 210,
+   "protein": 7,
+   "carbs": 42,
+   "fat": 1,
+   "fiber": 2,
+   "iron": 1.2,
+   "calcium": 25,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 0,
+   "folate": 20,
+   "zinc": 0.7,
+   "magnesium": 25,
+   "omega3": 0
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#FBF6EA",
+  "tags": [
+   "indian",
+   "fermented",
+   "light"
+  ]
+ },
+ {
+  "id": "dosa",
+  "name": "Plain Dosa",
+  "category": "breakfast",
+  "grams": 100,
+  "serving": "1 dosa",
+  "n": {
+   "kcal": 168,
+   "protein": 4,
+   "carbs": 29,
+   "fat": 4,
+   "fiber": 1.5,
+   "iron": 0.8,
+   "calcium": 15,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 0,
+   "folate": 15,
+   "zinc": 0.5,
+   "magnesium": 20,
+   "omega3": 0.02
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#E9B86A",
+  "tags": [
+   "indian",
+   "fermented"
+  ]
+ },
+ {
+  "id": "masala_dosa",
+  "name": "Masala Dosa",
+  "category": "breakfast",
+  "grams": 200,
+  "serving": "1 dosa",
+  "n": {
+   "kcal": 380,
+   "protein": 8,
+   "carbs": 55,
+   "fat": 14,
+   "fiber": 4,
+   "iron": 1.8,
+   "calcium": 40,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 10,
+   "folate": 30,
+   "zinc": 1,
+   "magnesium": 45,
+   "omega3": 0.05
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#E3A64F",
+  "tags": [
+   "indian"
+  ]
+ },
+ {
+  "id": "sambar",
+  "name": "Sambar",
+  "category": "side",
+  "grams": 150,
+  "serving": "1 bowl",
+  "n": {
+   "kcal": 130,
+   "protein": 6,
+   "carbs": 18,
+   "fat": 4,
+   "fiber": 5,
+   "iron": 1.8,
+   "calcium": 50,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 12,
+   "folate": 45,
+   "zinc": 0.8,
+   "magnesium": 40,
+   "omega3": 0.03
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#E07B39",
+  "tags": [
+   "indian",
+   "lentil"
+  ]
+ },
+ {
+  "id": "coconut_chutney",
+  "name": "Coconut Chutney",
+  "category": "side",
+  "grams": 40,
+  "serving": "2 tbsp",
+  "n": {
+   "kcal": 100,
+   "protein": 1.5,
+   "carbs": 4,
+   "fat": 9,
+   "fiber": 2,
+   "iron": 0.5,
+   "calcium": 8,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 1,
+   "folate": 8,
+   "zinc": 0.2,
+   "magnesium": 15,
+   "omega3": 0
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#F4F1E4",
+  "tags": [
+   "indian"
+  ]
+ },
+ {
+  "id": "aloo_paratha",
+  "name": "Aloo Paratha",
+  "category": "breakfast",
+  "grams": 120,
+  "serving": "1 paratha",
+  "n": {
+   "kcal": 300,
+   "protein": 6,
+   "carbs": 40,
+   "fat": 13,
+   "fiber": 4,
+   "iron": 1.6,
+   "calcium": 30,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 8,
+   "folate": 25,
+   "zinc": 0.8,
+   "magnesium": 30,
+   "omega3": 0.05
+  },
+  "diet": "veg",
+  "allergens": [
+   "gluten",
+   "dairy"
+  ],
+  "color": "#D99A4E",
+  "tags": [
+   "indian",
+   "heavy"
+  ]
+ },
+ {
+  "id": "paneer_paratha",
+  "name": "Paneer Paratha",
+  "category": "breakfast",
+  "grams": 130,
+  "serving": "1 paratha",
+  "n": {
+   "kcal": 330,
+   "protein": 12,
+   "carbs": 36,
+   "fat": 15,
+   "fiber": 3,
+   "iron": 1.4,
+   "calcium": 180,
+   "vitD": 0,
+   "b12": 0.3,
+   "vitC": 2,
+   "folate": 25,
+   "zinc": 1.2,
+   "magnesium": 30,
+   "omega3": 0.05
+  },
+  "diet": "veg",
+  "allergens": [
+   "gluten",
+   "dairy"
+  ],
+  "color": "#E2AE62",
+  "tags": [
+   "indian"
+  ]
+ },
+ {
+  "id": "besan_chilla",
+  "name": "Besan Chilla (2)",
+  "category": "breakfast",
+  "grams": 140,
+  "serving": "2 chillas",
+  "n": {
+   "kcal": 260,
+   "protein": 13,
+   "carbs": 28,
+   "fat": 10,
+   "fiber": 6,
+   "iron": 2.6,
+   "calcium": 45,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 6,
+   "folate": 110,
+   "zinc": 1.4,
+   "magnesium": 70,
+   "omega3": 0.08
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#EDC44C",
+  "tags": [
+   "indian",
+   "high-protein"
+  ]
+ },
+ {
+  "id": "moong_chilla",
+  "name": "Moong Dal Chilla (2)",
+  "category": "breakfast",
+  "grams": 140,
+  "serving": "2 chillas",
+  "n": {
+   "kcal": 250,
+   "protein": 15,
+   "carbs": 30,
+   "fat": 7,
+   "fiber": 7,
+   "iron": 2.5,
+   "calcium": 40,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 4,
+   "folate": 140,
+   "zinc": 1.5,
+   "magnesium": 70,
+   "omega3": 0.05
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#B9CF63",
+  "tags": [
+   "indian",
+   "high-protein"
+  ]
+ },
+ {
+  "id": "oats",
+  "name": "Oats Porridge (milk)",
+  "category": "breakfast",
+  "grams": 250,
+  "serving": "1 bowl",
+  "n": {
+   "kcal": 280,
+   "protein": 11,
+   "carbs": 42,
+   "fat": 7,
+   "fiber": 5,
+   "iron": 2.2,
+   "calcium": 220,
+   "vitD": 1.2,
+   "b12": 0.9,
+   "vitC": 1,
+   "folate": 20,
+   "zinc": 2,
+   "magnesium": 80,
+   "omega3": 0.05
+  },
+  "diet": "veg",
+  "allergens": [
+   "dairy",
+   "gluten"
+  ],
+  "color": "#EFE2C8",
+  "tags": [
+   "high-fiber"
+  ]
+ },
+ {
+  "id": "boiled_eggs",
+  "name": "Boiled Eggs (2)",
+  "category": "breakfast",
+  "grams": 100,
+  "serving": "2 eggs",
+  "n": {
+   "kcal": 155,
+   "protein": 13,
+   "carbs": 1,
+   "fat": 11,
+   "fiber": 0,
+   "iron": 1.8,
+   "calcium": 56,
+   "vitD": 2.2,
+   "b12": 1.1,
+   "vitC": 0,
+   "folate": 47,
+   "zinc": 1.3,
+   "magnesium": 12,
+   "omega3": 0.08
+  },
+  "diet": "egg",
+  "allergens": [
+   "egg"
+  ],
+  "color": "#FFF6DD",
+  "tags": [
+   "high-protein"
+  ]
+ },
+ {
+  "id": "omelette",
+  "name": "Veg Omelette (2 eggs)",
+  "category": "breakfast",
+  "grams": 130,
+  "serving": "1 omelette",
+  "n": {
+   "kcal": 210,
+   "protein": 14,
+   "carbs": 4,
+   "fat": 15,
+   "fiber": 1,
+   "iron": 2,
+   "calcium": 70,
+   "vitD": 2.2,
+   "b12": 1.1,
+   "vitC": 10,
+   "folate": 55,
+   "zinc": 1.4,
+   "magnesium": 18,
+   "omega3": 0.08
+  },
+  "diet": "egg",
+  "allergens": [
+   "egg"
+  ],
+  "color": "#F7D65A",
+  "tags": [
+   "high-protein"
+  ]
+ },
+ {
+  "id": "egg_bhurji",
+  "name": "Egg Bhurji",
+  "category": "breakfast",
+  "grams": 130,
+  "serving": "1 bowl",
+  "n": {
+   "kcal": 230,
+   "protein": 14,
+   "carbs": 5,
+   "fat": 17,
+   "fiber": 1,
+   "iron": 2,
+   "calcium": 70,
+   "vitD": 2.2,
+   "b12": 1.1,
+   "vitC": 10,
+   "folate": 55,
+   "zinc": 1.4,
+   "magnesium": 18,
+   "omega3": 0.08
+  },
+  "diet": "egg",
+  "allergens": [
+   "egg"
+  ],
+  "color": "#F5CF4F",
+  "tags": [
+   "indian",
+   "high-protein"
+  ]
+ },
+ {
+  "id": "toast",
+  "name": "Buttered Toast (2)",
+  "category": "breakfast",
+  "grams": 70,
+  "serving": "2 slices",
+  "n": {
+   "kcal": 230,
+   "protein": 6,
+   "carbs": 30,
+   "fat": 9,
+   "fiber": 2,
+   "iron": 1.6,
+   "calcium": 60,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 0,
+   "folate": 40,
+   "zinc": 0.6,
+   "magnesium": 20,
+   "omega3": 0.02
+  },
+  "diet": "veg",
+  "allergens": [
+   "gluten",
+   "dairy"
+  ],
+  "color": "#D9A766",
+  "tags": []
+ },
+ {
+  "id": "pb_toast",
+  "name": "Peanut Butter Toast",
+  "category": "breakfast",
+  "grams": 80,
+  "serving": "2 slices",
+  "n": {
+   "kcal": 290,
+   "protein": 11,
+   "carbs": 30,
+   "fat": 15,
+   "fiber": 5,
+   "iron": 1.6,
+   "calcium": 40,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 0,
+   "folate": 40,
+   "zinc": 1.4,
+   "magnesium": 70,
+   "omega3": 0.03
+  },
+  "diet": "vegan",
+  "allergens": [
+   "gluten",
+   "nuts"
+  ],
+  "color": "#B97B3E",
+  "tags": [
+   "high-protein"
+  ]
+ },
+ {
+  "id": "avocado_toast",
+  "name": "Avocado Toast",
+  "category": "breakfast",
+  "grams": 150,
+  "serving": "2 slices",
+  "n": {
+   "kcal": 290,
+   "protein": 7,
+   "carbs": 30,
+   "fat": 16,
+   "fiber": 8,
+   "iron": 1.8,
+   "calcium": 50,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 10,
+   "folate": 90,
+   "zinc": 1,
+   "magnesium": 45,
+   "omega3": 0.1
+  },
+  "diet": "vegan",
+  "allergens": [
+   "gluten"
+  ],
+  "color": "#9BC25B",
+  "tags": [
+   "healthy-fat"
+  ]
+ },
+ {
+  "id": "cereal",
+  "name": "Fortified Cereal + Milk",
+  "category": "breakfast",
+  "grams": 250,
+  "serving": "1 bowl",
+  "n": {
+   "kcal": 260,
+   "protein": 10,
+   "carbs": 44,
+   "fat": 5,
+   "fiber": 3,
+   "iron": 6,
+   "calcium": 320,
+   "vitD": 2.5,
+   "b12": 1.8,
+   "vitC": 8,
+   "folate": 150,
+   "zinc": 3,
+   "magnesium": 50,
+   "omega3": 0.02
+  },
+  "diet": "veg",
+  "allergens": [
+   "dairy",
+   "gluten"
+  ],
+  "color": "#E7C27A",
+  "tags": [
+   "fortified"
+  ]
+ },
+ {
+  "id": "chia_pudding",
+  "name": "Chia Pudding",
+  "category": "breakfast",
+  "grams": 200,
+  "serving": "1 jar",
+  "n": {
+   "kcal": 220,
+   "protein": 7,
+   "carbs": 22,
+   "fat": 12,
+   "fiber": 10,
+   "iron": 2.2,
+   "calcium": 250,
+   "vitD": 0.8,
+   "b12": 0.5,
+   "vitC": 1,
+   "folate": 30,
+   "zinc": 1.2,
+   "magnesium": 95,
+   "omega3": 3.5
+  },
+  "diet": "veg",
+  "allergens": [
+   "dairy"
+  ],
+  "color": "#EEE7DA",
+  "tags": [
+   "omega-3",
+   "high-fiber"
+  ]
+ },
+ {
+  "id": "tofu_scramble",
+  "name": "Tofu Scramble",
+  "category": "breakfast",
+  "grams": 150,
+  "serving": "1 bowl",
+  "n": {
+   "kcal": 200,
+   "protein": 16,
+   "carbs": 6,
+   "fat": 13,
+   "fiber": 2,
+   "iron": 3,
+   "calcium": 300,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 6,
+   "folate": 30,
+   "zinc": 1.6,
+   "magnesium": 50,
+   "omega3": 0.4
+  },
+  "diet": "vegan",
+  "allergens": [
+   "soy"
+  ],
+  "color": "#F2DE8C",
+  "tags": [
+   "high-protein"
+  ]
+ },
+ {
+  "id": "methi_thepla",
+  "name": "Methi Thepla (2)",
+  "category": "breakfast",
+  "grams": 100,
+  "serving": "2 theplas",
+  "n": {
+   "kcal": 260,
+   "protein": 7,
+   "carbs": 34,
+   "fat": 11,
+   "fiber": 5,
+   "iron": 2.8,
+   "calcium": 80,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 8,
+   "folate": 40,
+   "zinc": 1,
+   "magnesium": 50,
+   "omega3": 0.04
+  },
+  "diet": "vegan",
+  "allergens": [
+   "gluten"
+  ],
+  "color": "#C6B062",
+  "tags": [
+   "indian"
+  ]
+ },
+ {
+  "id": "dalia",
+  "name": "Vegetable Dalia",
+  "category": "breakfast",
+  "grams": 200,
+  "serving": "1 bowl",
+  "n": {
+   "kcal": 230,
+   "protein": 8,
+   "carbs": 40,
+   "fat": 4,
+   "fiber": 6,
+   "iron": 2,
+   "calcium": 40,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 0,
+   "folate": 30,
+   "zinc": 1.4,
+   "magnesium": 70,
+   "omega3": 0.03
+  },
+  "diet": "vegan",
+  "allergens": [
+   "gluten"
+  ],
+  "color": "#D6BE84",
+  "tags": [
+   "high-fiber",
+   "indian"
+  ]
+ },
+ {
+  "id": "ragi_roti",
+  "name": "Ragi Roti (2)",
+  "category": "breakfast",
+  "grams": 100,
+  "serving": "2 rotis",
+  "n": {
+   "kcal": 220,
+   "protein": 5,
+   "carbs": 44,
+   "fat": 3,
+   "fiber": 6,
+   "iron": 2.4,
+   "calcium": 240,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 0,
+   "folate": 30,
+   "zinc": 1,
+   "magnesium": 90,
+   "omega3": 0.03
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#8B5E4A",
+  "tags": [
+   "indian",
+   "calcium"
+  ]
+ },
+ {
+  "id": "smoothie",
+  "name": "Banana Peanut Smoothie",
+  "category": "breakfast",
+  "grams": 300,
+  "serving": "1 glass",
+  "n": {
+   "kcal": 320,
+   "protein": 12,
+   "carbs": 45,
+   "fat": 11,
+   "fiber": 5,
+   "iron": 1.2,
+   "calcium": 280,
+   "vitD": 1.2,
+   "b12": 0.9,
+   "vitC": 10,
+   "folate": 40,
+   "zinc": 1.6,
+   "magnesium": 80,
+   "omega3": 0.03
+  },
+  "diet": "veg",
+  "allergens": [
+   "dairy",
+   "nuts"
+  ],
+  "color": "#EBD9A8",
+  "tags": []
+ },
+ {
+  "id": "sprouts",
+  "name": "Moong Sprouts Salad",
+  "category": "snack",
+  "grams": 150,
+  "serving": "1 bowl",
+  "n": {
+   "kcal": 140,
+   "protein": 10,
+   "carbs": 22,
+   "fat": 1,
+   "fiber": 6,
+   "iron": 2.2,
+   "calcium": 30,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 20,
+   "folate": 120,
+   "zinc": 1.2,
+   "magnesium": 45,
+   "omega3": 0.1
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#9CC86A",
+  "tags": [
+   "high-protein",
+   "light"
+  ]
+ },
+ {
+  "id": "banana",
+  "name": "Banana",
+  "category": "fruit",
+  "grams": 120,
+  "serving": "1 medium",
+  "n": {
+   "kcal": 105,
+   "protein": 1.3,
+   "carbs": 27,
+   "fat": 0.4,
+   "fiber": 3,
+   "iron": 0.3,
+   "calcium": 6,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 10,
+   "folate": 24,
+   "zinc": 0.2,
+   "magnesium": 32,
+   "omega3": 0.03
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#F7DA4F",
+  "tags": [
+   "fruit"
+  ]
+ },
+ {
+  "id": "apple",
+  "name": "Apple",
+  "category": "fruit",
+  "grams": 180,
+  "serving": "1 medium",
+  "n": {
+   "kcal": 95,
+   "protein": 0.5,
+   "carbs": 25,
+   "fat": 0.3,
+   "fiber": 4.4,
+   "iron": 0.2,
+   "calcium": 11,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 8,
+   "folate": 5,
+   "zinc": 0.1,
+   "magnesium": 9,
+   "omega3": 0.02
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#E2584D",
+  "tags": [
+   "fruit"
+  ]
+ },
+ {
+  "id": "orange",
+  "name": "Orange",
+  "category": "fruit",
+  "grams": 130,
+  "serving": "1 medium",
+  "n": {
+   "kcal": 62,
+   "protein": 1.2,
+   "carbs": 15,
+   "fat": 0.2,
+   "fiber": 3.1,
+   "iron": 0.1,
+   "calcium": 52,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 70,
+   "folate": 40,
+   "zinc": 0.1,
+   "magnesium": 13,
+   "omega3": 0.01
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#F59E3B",
+  "tags": [
+   "fruit",
+   "vitamin-c"
+  ]
+ },
+ {
+  "id": "papaya",
+  "name": "Papaya Bowl",
+  "category": "fruit",
+  "grams": 150,
+  "serving": "1 bowl",
+  "n": {
+   "kcal": 65,
+   "protein": 0.7,
+   "carbs": 16,
+   "fat": 0.4,
+   "fiber": 2.5,
+   "iron": 0.4,
+   "calcium": 30,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 90,
+   "folate": 55,
+   "zinc": 0.1,
+   "magnesium": 30,
+   "omega3": 0
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#F8955A",
+  "tags": [
+   "fruit",
+   "vitamin-c"
+  ]
+ },
+ {
+  "id": "guava",
+  "name": "Guava",
+  "category": "fruit",
+  "grams": 100,
+  "serving": "1 medium",
+  "n": {
+   "kcal": 68,
+   "protein": 2.6,
+   "carbs": 14,
+   "fat": 1,
+   "fiber": 5.4,
+   "iron": 0.3,
+   "calcium": 18,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 228,
+   "folate": 49,
+   "zinc": 0.2,
+   "magnesium": 22,
+   "omega3": 0.1
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#A9CF5B",
+  "tags": [
+   "fruit",
+   "vitamin-c"
+  ]
+ },
+ {
+  "id": "fruit_bowl",
+  "name": "Mixed Fruit Bowl",
+  "category": "fruit",
+  "grams": 200,
+  "serving": "1 bowl",
+  "n": {
+   "kcal": 120,
+   "protein": 1.5,
+   "carbs": 30,
+   "fat": 0.5,
+   "fiber": 4,
+   "iron": 0.6,
+   "calcium": 25,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 60,
+   "folate": 30,
+   "zinc": 0.2,
+   "magnesium": 25,
+   "omega3": 0.05
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#F27E6B",
+  "tags": [
+   "fruit"
+  ]
+ },
+ {
+  "id": "milk",
+  "name": "Toned Milk (fortified)",
+  "category": "drink",
+  "grams": 250,
+  "serving": "1 glass",
+  "n": {
+   "kcal": 150,
+   "protein": 8,
+   "carbs": 12,
+   "fat": 8,
+   "fiber": 0,
+   "iron": 0.1,
+   "calcium": 300,
+   "vitD": 2.5,
+   "b12": 1.1,
+   "vitC": 0,
+   "folate": 12,
+   "zinc": 1,
+   "magnesium": 27,
+   "omega3": 0.02
+  },
+  "diet": "veg",
+  "allergens": [
+   "dairy"
+  ],
+  "color": "#FBFBF5",
+  "tags": [
+   "calcium",
+   "fortified"
+  ]
+ },
+ {
+  "id": "curd",
+  "name": "Curd / Dahi",
+  "category": "side",
+  "grams": 150,
+  "serving": "1 bowl",
+  "n": {
+   "kcal": 90,
+   "protein": 5,
+   "carbs": 7,
+   "fat": 5,
+   "fiber": 0,
+   "iron": 0.1,
+   "calcium": 180,
+   "vitD": 0.1,
+   "b12": 0.6,
+   "vitC": 1,
+   "folate": 10,
+   "zinc": 0.8,
+   "magnesium": 17,
+   "omega3": 0.01
+  },
+  "diet": "veg",
+  "allergens": [
+   "dairy"
+  ],
+  "color": "#F8F6EE",
+  "tags": [
+   "probiotic",
+   "calcium"
+  ]
+ },
+ {
+  "id": "chaas",
+  "name": "Chaas",
+  "category": "drink",
+  "grams": 250,
+  "serving": "1 glass",
+  "n": {
+   "kcal": 40,
+   "protein": 2,
+   "carbs": 5,
+   "fat": 1,
+   "fiber": 0,
+   "iron": 0.1,
+   "calcium": 120,
+   "vitD": 0,
+   "b12": 0.3,
+   "vitC": 1,
+   "folate": 5,
+   "zinc": 0.4,
+   "magnesium": 10,
+   "omega3": 0
+  },
+  "diet": "veg",
+  "allergens": [
+   "dairy"
+  ],
+  "color": "#EEF2E6",
+  "tags": [
+   "light",
+   "probiotic"
+  ]
+ },
+ {
+  "id": "lassi",
+  "name": "Sweet Lassi",
+  "category": "drink",
+  "grams": 250,
+  "serving": "1 glass",
+  "n": {
+   "kcal": 220,
+   "protein": 7,
+   "carbs": 34,
+   "fat": 6,
+   "fiber": 0,
+   "iron": 0.1,
+   "calcium": 240,
+   "vitD": 0.1,
+   "b12": 0.8,
+   "vitC": 1,
+   "folate": 12,
+   "zinc": 0.9,
+   "magnesium": 22,
+   "omega3": 0.01
+  },
+  "diet": "veg",
+  "allergens": [
+   "dairy"
+  ],
+  "color": "#F7F0DC",
+  "tags": []
+ },
+ {
+  "id": "chai",
+  "name": "Masala Chai",
+  "category": "drink",
+  "grams": 150,
+  "serving": "1 cup",
+  "n": {
+   "kcal": 90,
+   "protein": 3,
+   "carbs": 12,
+   "fat": 3.5,
+   "fiber": 0,
+   "iron": 0.2,
+   "calcium": 100,
+   "vitD": 0.5,
+   "b12": 0.3,
+   "vitC": 0,
+   "folate": 5,
+   "zinc": 0.3,
+   "magnesium": 10,
+   "omega3": 0
+  },
+  "diet": "veg",
+  "allergens": [
+   "dairy"
+  ],
+  "color": "#C99A6B",
+  "tags": [
+   "indian"
+  ]
+ },
+ {
+  "id": "coffee",
+  "name": "Black Coffee",
+  "category": "drink",
+  "grams": 200,
+  "serving": "1 cup",
+  "n": {
+   "kcal": 5,
+   "protein": 0.3,
+   "carbs": 0,
+   "fat": 0,
+   "fiber": 0,
+   "iron": 0.1,
+   "calcium": 5,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 0,
+   "folate": 5,
+   "zinc": 0,
+   "magnesium": 7,
+   "omega3": 0
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#5B3A29",
+  "tags": []
+ },
+ {
+  "id": "greek_yogurt",
+  "name": "Greek Yogurt",
+  "category": "snack",
+  "grams": 150,
+  "serving": "1 cup",
+  "n": {
+   "kcal": 130,
+   "protein": 15,
+   "carbs": 6,
+   "fat": 5,
+   "fiber": 0,
+   "iron": 0.1,
+   "calcium": 170,
+   "vitD": 0,
+   "b12": 0.8,
+   "vitC": 0,
+   "folate": 10,
+   "zinc": 0.8,
+   "magnesium": 17,
+   "omega3": 0
+  },
+  "diet": "veg",
+  "allergens": [
+   "dairy"
+  ],
+  "color": "#FAF8F2",
+  "tags": [
+   "high-protein"
+  ]
+ },
+ {
+  "id": "coconut_water",
+  "name": "Coconut Water",
+  "category": "drink",
+  "grams": 250,
+  "serving": "1 glass",
+  "n": {
+   "kcal": 45,
+   "protein": 1.7,
+   "carbs": 9,
+   "fat": 0.5,
+   "fiber": 2.6,
+   "iron": 0.7,
+   "calcium": 58,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 6,
+   "folate": 7,
+   "zinc": 0.3,
+   "magnesium": 60,
+   "omega3": 0
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#E6F0CF",
+  "tags": [
+   "hydration"
+  ]
+ },
+ {
+  "id": "lime_water",
+  "name": "Fresh Lime Water",
+  "category": "drink",
+  "grams": 250,
+  "serving": "1 glass",
+  "n": {
+   "kcal": 30,
+   "protein": 0.2,
+   "carbs": 8,
+   "fat": 0,
+   "fiber": 0,
+   "iron": 0.1,
+   "calcium": 5,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 15,
+   "folate": 3,
+   "zinc": 0,
+   "magnesium": 3,
+   "omega3": 0
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#E9F5B8",
+  "tags": [
+   "hydration"
+  ]
+ },
+ {
+  "id": "cola",
+  "name": "Cola (330 ml)",
+  "category": "drink",
+  "grams": 330,
+  "serving": "1 can",
+  "n": {
+   "kcal": 140,
+   "protein": 0,
+   "carbs": 35,
+   "fat": 0,
+   "fiber": 0,
+   "iron": 0,
+   "calcium": 7,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 0,
+   "folate": 0,
+   "zinc": 0,
+   "magnesium": 3,
+   "omega3": 0
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#6B3A2A",
+  "tags": [
+   "sugary"
+  ]
+ },
+ {
+  "id": "protein_shake",
+  "name": "Whey Protein Shake",
+  "category": "drink",
+  "grams": 300,
+  "serving": "1 shaker",
+  "n": {
+   "kcal": 260,
+   "protein": 32,
+   "carbs": 18,
+   "fat": 6,
+   "fiber": 0,
+   "iron": 0.6,
+   "calcium": 400,
+   "vitD": 1.2,
+   "b12": 1.5,
+   "vitC": 0,
+   "folate": 20,
+   "zinc": 2.5,
+   "magnesium": 60,
+   "omega3": 0
+  },
+  "diet": "veg",
+  "allergens": [
+   "dairy"
+  ],
+  "color": "#E8DCC9",
+  "tags": [
+   "high-protein"
+  ]
+ },
+ {
+  "id": "dal_tadka",
+  "name": "Dal Tadka",
+  "category": "main",
+  "grams": 180,
+  "serving": "1 bowl",
+  "n": {
+   "kcal": 220,
+   "protein": 11,
+   "carbs": 28,
+   "fat": 7,
+   "fiber": 7,
+   "iron": 2.8,
+   "calcium": 45,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 4,
+   "folate": 140,
+   "zinc": 1.4,
+   "magnesium": 60,
+   "omega3": 0.05
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#F6E7B4",
+  "tags": [
+   "indian",
+   "lentil"
+  ]
+ },
+ {
+  "id": "palak_dal",
+  "name": "Palak Dal",
+  "category": "main",
+  "grams": 180,
+  "serving": "1 bowl",
+  "n": {
+   "kcal": 210,
+   "protein": 12,
+   "carbs": 26,
+   "fat": 6,
+   "fiber": 8,
+   "iron": 4.2,
+   "calcium": 90,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 18,
+   "folate": 190,
+   "zinc": 1.6,
+   "magnesium": 85,
+   "omega3": 0.06
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#8DB255",
+  "tags": [
+   "indian",
+   "lentil",
+   "iron"
+  ]
+ },
+ {
+  "id": "rajma",
+  "name": "Rajma",
+  "category": "main",
+  "grams": 180,
+  "serving": "1 bowl",
+  "n": {
+   "kcal": 240,
+   "protein": 12,
+   "carbs": 32,
+   "fat": 7,
+   "fiber": 9,
+   "iron": 3.8,
+   "calcium": 70,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 4,
+   "folate": 150,
+   "zinc": 1.6,
+   "magnesium": 70,
+   "omega3": 0.1
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#A3453A",
+  "tags": [
+   "indian",
+   "iron"
+  ]
+ },
+ {
+  "id": "chole",
+  "name": "Chole",
+  "category": "main",
+  "grams": 180,
+  "serving": "1 bowl",
+  "n": {
+   "kcal": 270,
+   "protein": 12,
+   "carbs": 36,
+   "fat": 9,
+   "fiber": 9,
+   "iron": 4,
+   "calcium": 80,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 4,
+   "folate": 180,
+   "zinc": 2,
+   "magnesium": 70,
+   "omega3": 0.08
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#C07A3B",
+  "tags": [
+   "indian",
+   "iron"
+  ]
+ },
+ {
+  "id": "kadhi",
+  "name": "Kadhi",
+  "category": "main",
+  "grams": 180,
+  "serving": "1 bowl",
+  "n": {
+   "kcal": 190,
+   "protein": 7,
+   "carbs": 14,
+   "fat": 11,
+   "fiber": 2,
+   "iron": 0.9,
+   "calcium": 180,
+   "vitD": 0,
+   "b12": 0.3,
+   "vitC": 2,
+   "folate": 30,
+   "zinc": 0.7,
+   "magnesium": 25,
+   "omega3": 0.02
+  },
+  "diet": "veg",
+  "allergens": [
+   "dairy"
+  ],
+  "color": "#F2D25B",
+  "tags": [
+   "indian"
+  ]
+ },
+ {
+  "id": "palak_paneer",
+  "name": "Palak Paneer",
+  "category": "main",
+  "grams": 180,
+  "serving": "1 bowl",
+  "n": {
+   "kcal": 290,
+   "protein": 14,
+   "carbs": 10,
+   "fat": 22,
+   "fiber": 4,
+   "iron": 3.5,
+   "calcium": 380,
+   "vitD": 0.1,
+   "b12": 0.4,
+   "vitC": 25,
+   "folate": 140,
+   "zinc": 1.6,
+   "magnesium": 80,
+   "omega3": 0.1
+  },
+  "diet": "veg",
+  "allergens": [
+   "dairy"
+  ],
+  "color": "#5E9B4A",
+  "tags": [
+   "indian",
+   "iron",
+   "calcium"
+  ]
+ },
+ {
+  "id": "paneer_butter_masala",
+  "name": "Paneer Butter Masala",
+  "category": "main",
+  "grams": 180,
+  "serving": "1 bowl",
+  "n": {
+   "kcal": 420,
+   "protein": 16,
+   "carbs": 14,
+   "fat": 33,
+   "fiber": 2,
+   "iron": 1.2,
+   "calcium": 350,
+   "vitD": 0.2,
+   "b12": 0.5,
+   "vitC": 8,
+   "folate": 25,
+   "zinc": 1.5,
+   "magnesium": 35,
+   "omega3": 0.1
+  },
+  "diet": "veg",
+  "allergens": [
+   "dairy",
+   "nuts"
+  ],
+  "color": "#E8763E",
+  "tags": [
+   "indian",
+   "heavy"
+  ]
+ },
+ {
+  "id": "paneer_tikka",
+  "name": "Paneer Tikka",
+  "category": "main",
+  "grams": 150,
+  "serving": "6 pieces",
+  "n": {
+   "kcal": 300,
+   "protein": 20,
+   "carbs": 8,
+   "fat": 21,
+   "fiber": 2,
+   "iron": 1,
+   "calcium": 420,
+   "vitD": 0.2,
+   "b12": 0.6,
+   "vitC": 15,
+   "folate": 20,
+   "zinc": 2,
+   "magnesium": 30,
+   "omega3": 0.05
+  },
+  "diet": "veg",
+  "allergens": [
+   "dairy"
+  ],
+  "color": "#E58B47",
+  "tags": [
+   "high-protein",
+   "calcium"
+  ]
+ },
+ {
+  "id": "mixed_veg",
+  "name": "Mixed Veg Sabzi",
+  "category": "side",
+  "grams": 90,
+  "serving": "1 katori",
+  "n": {
+   "kcal": 95,
+   "protein": 2.5,
+   "carbs": 10,
+   "fat": 5,
+   "fiber": 3.5,
+   "iron": 1,
+   "calcium": 40,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 20,
+   "folate": 30,
+   "zinc": 0.4,
+   "magnesium": 25,
+   "omega3": 0.03
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#7DBE6A",
+  "tags": [
+   "indian"
+  ]
+ },
+ {
+  "id": "bhindi",
+  "name": "Bhindi Masala",
+  "category": "side",
+  "grams": 120,
+  "serving": "1 katori",
+  "n": {
+   "kcal": 130,
+   "protein": 3,
+   "carbs": 11,
+   "fat": 9,
+   "fiber": 4,
+   "iron": 0.8,
+   "calcium": 90,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 18,
+   "folate": 70,
+   "zinc": 0.6,
+   "magnesium": 55,
+   "omega3": 0.03
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#5C9E46",
+  "tags": [
+   "indian"
+  ]
+ },
+ {
+  "id": "aloo_gobi",
+  "name": "Aloo Gobi",
+  "category": "side",
+  "grams": 150,
+  "serving": "1 katori",
+  "n": {
+   "kcal": 170,
+   "protein": 4,
+   "carbs": 20,
+   "fat": 9,
+   "fiber": 4,
+   "iron": 1,
+   "calcium": 30,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 45,
+   "folate": 50,
+   "zinc": 0.5,
+   "magnesium": 25,
+   "omega3": 0.04
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#EDCB57",
+  "tags": [
+   "indian"
+  ]
+ },
+ {
+  "id": "baingan_bharta",
+  "name": "Baingan Bharta",
+  "category": "side",
+  "grams": 150,
+  "serving": "1 katori",
+  "n": {
+   "kcal": 140,
+   "protein": 3,
+   "carbs": 13,
+   "fat": 9,
+   "fiber": 6,
+   "iron": 0.6,
+   "calcium": 20,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 6,
+   "folate": 30,
+   "zinc": 0.4,
+   "magnesium": 25,
+   "omega3": 0.03
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#8A5A6E",
+  "tags": [
+   "indian"
+  ]
+ },
+ {
+  "id": "mushroom_masala",
+  "name": "Mushroom Masala",
+  "category": "main",
+  "grams": 150,
+  "serving": "1 bowl",
+  "n": {
+   "kcal": 140,
+   "protein": 5,
+   "carbs": 10,
+   "fat": 9,
+   "fiber": 3,
+   "iron": 1.2,
+   "calcium": 15,
+   "vitD": 4,
+   "b12": 0.1,
+   "vitC": 3,
+   "folate": 25,
+   "zinc": 0.8,
+   "magnesium": 15,
+   "omega3": 0.02
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#A98563",
+  "tags": [
+   "vitamin-d"
+  ]
+ },
+ {
+  "id": "sarson_saag",
+  "name": "Sarson ka Saag",
+  "category": "main",
+  "grams": 180,
+  "serving": "1 bowl",
+  "n": {
+   "kcal": 200,
+   "protein": 6,
+   "carbs": 12,
+   "fat": 14,
+   "fiber": 6,
+   "iron": 3.5,
+   "calcium": 250,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 60,
+   "folate": 180,
+   "zinc": 0.8,
+   "magnesium": 55,
+   "omega3": 0.15
+  },
+  "diet": "veg",
+  "allergens": [
+   "dairy"
+  ],
+  "color": "#4E8C3A",
+  "tags": [
+   "indian",
+   "iron",
+   "calcium"
+  ]
+ },
+ {
+  "id": "soya_curry",
+  "name": "Soya Chunks Curry",
+  "category": "main",
+  "grams": 180,
+  "serving": "1 bowl",
+  "n": {
+   "kcal": 230,
+   "protein": 22,
+   "carbs": 16,
+   "fat": 8,
+   "fiber": 7,
+   "iron": 5,
+   "calcium": 150,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 4,
+   "folate": 180,
+   "zinc": 2.5,
+   "magnesium": 90,
+   "omega3": 0.2
+  },
+  "diet": "vegan",
+  "allergens": [
+   "soy"
+  ],
+  "color": "#B5733F",
+  "tags": [
+   "high-protein",
+   "iron"
+  ]
+ },
+ {
+  "id": "tofu_stirfry",
+  "name": "Tofu Stir Fry",
+  "category": "main",
+  "grams": 200,
+  "serving": "1 plate",
+  "n": {
+   "kcal": 240,
+   "protein": 18,
+   "carbs": 12,
+   "fat": 14,
+   "fiber": 3,
+   "iron": 3.5,
+   "calcium": 350,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 20,
+   "folate": 40,
+   "zinc": 2,
+   "magnesium": 70,
+   "omega3": 0.5
+  },
+  "diet": "vegan",
+  "allergens": [
+   "soy"
+  ],
+  "color": "#E4C86E",
+  "tags": [
+   "high-protein",
+   "calcium"
+  ]
+ },
+ {
+  "id": "khichdi",
+  "name": "Moong Khichdi",
+  "category": "main",
+  "grams": 250,
+  "serving": "1 bowl",
+  "n": {
+   "kcal": 290,
+   "protein": 11,
+   "carbs": 48,
+   "fat": 6,
+   "fiber": 5,
+   "iron": 2.2,
+   "calcium": 40,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 2,
+   "folate": 90,
+   "zinc": 1.5,
+   "magnesium": 60,
+   "omega3": 0.03
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#EBD27E",
+  "tags": [
+   "indian",
+   "light"
+  ]
+ },
+ {
+  "id": "curd_rice",
+  "name": "Curd Rice",
+  "category": "main",
+  "grams": 220,
+  "serving": "1 bowl",
+  "n": {
+   "kcal": 280,
+   "protein": 8,
+   "carbs": 44,
+   "fat": 8,
+   "fiber": 1,
+   "iron": 0.5,
+   "calcium": 200,
+   "vitD": 0.1,
+   "b12": 0.6,
+   "vitC": 1,
+   "folate": 12,
+   "zinc": 1,
+   "magnesium": 25,
+   "omega3": 0.02
+  },
+  "diet": "veg",
+  "allergens": [
+   "dairy"
+  ],
+  "color": "#F7F4EA",
+  "tags": [
+   "indian",
+   "probiotic"
+  ]
+ },
+ {
+  "id": "veg_biryani",
+  "name": "Veg Biryani",
+  "category": "main",
+  "grams": 300,
+  "serving": "1 plate",
+  "n": {
+   "kcal": 440,
+   "protein": 10,
+   "carbs": 70,
+   "fat": 13,
+   "fiber": 5,
+   "iron": 2,
+   "calcium": 60,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 10,
+   "folate": 35,
+   "zinc": 1.5,
+   "magnesium": 50,
+   "omega3": 0.05
+  },
+  "diet": "veg",
+  "allergens": [
+   "dairy"
+  ],
+  "color": "#E9A54B",
+  "tags": [
+   "indian"
+  ]
+ },
+ {
+  "id": "veg_pulao",
+  "name": "Veg Pulao",
+  "category": "main",
+  "grams": 200,
+  "serving": "1 plate",
+  "n": {
+   "kcal": 280,
+   "protein": 6,
+   "carbs": 46,
+   "fat": 8,
+   "fiber": 3,
+   "iron": 1.2,
+   "calcium": 30,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 8,
+   "folate": 20,
+   "zinc": 0.9,
+   "magnesium": 30,
+   "omega3": 0.03
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#EFCF84",
+  "tags": [
+   "indian"
+  ]
+ },
+ {
+  "id": "quinoa_salad",
+  "name": "Quinoa Salad Bowl",
+  "category": "main",
+  "grams": 250,
+  "serving": "1 bowl",
+  "n": {
+   "kcal": 340,
+   "protein": 12,
+   "carbs": 44,
+   "fat": 13,
+   "fiber": 7,
+   "iron": 3,
+   "calcium": 60,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 25,
+   "folate": 90,
+   "zinc": 2,
+   "magnesium": 110,
+   "omega3": 0.15
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#C5D97A",
+  "tags": [
+   "high-fiber"
+  ]
+ },
+ {
+  "id": "hummus_veggies",
+  "name": "Hummus + Veggie Sticks",
+  "category": "snack",
+  "grams": 180,
+  "serving": "1 plate",
+  "n": {
+   "kcal": 200,
+   "protein": 7,
+   "carbs": 18,
+   "fat": 12,
+   "fiber": 6,
+   "iron": 2,
+   "calcium": 50,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 15,
+   "folate": 60,
+   "zinc": 1,
+   "magnesium": 50,
+   "omega3": 0.1
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#E9D29A",
+  "tags": [
+   "healthy-fat"
+  ]
+ },
+ {
+  "id": "tomato_soup",
+  "name": "Tomato Soup",
+  "category": "side",
+  "grams": 250,
+  "serving": "1 bowl",
+  "n": {
+   "kcal": 110,
+   "protein": 2.5,
+   "carbs": 16,
+   "fat": 4,
+   "fiber": 3,
+   "iron": 1.2,
+   "calcium": 25,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 25,
+   "folate": 25,
+   "zinc": 0.3,
+   "magnesium": 25,
+   "omega3": 0.02
+  },
+  "diet": "veg",
+  "allergens": [
+   "dairy"
+  ],
+  "color": "#DE4F3A",
+  "tags": [
+   "light"
+  ]
+ },
+ {
+  "id": "green_salad",
+  "name": "Green Salad",
+  "category": "side",
+  "grams": 150,
+  "serving": "1 bowl",
+  "n": {
+   "kcal": 40,
+   "protein": 2,
+   "carbs": 7,
+   "fat": 0.4,
+   "fiber": 3,
+   "iron": 1,
+   "calcium": 45,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 30,
+   "folate": 90,
+   "zinc": 0.3,
+   "magnesium": 25,
+   "omega3": 0.03
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#86C25E",
+  "tags": [
+   "light"
+  ]
+ },
+ {
+  "id": "roti",
+  "name": "Whole Wheat Roti",
+  "category": "staple",
+  "grams": 40,
+  "serving": "1 roti",
+  "n": {
+   "kcal": 120,
+   "protein": 3.5,
+   "carbs": 20,
+   "fat": 3,
+   "fiber": 3,
+   "iron": 1.2,
+   "calcium": 12,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 0,
+   "folate": 10,
+   "zinc": 0.6,
+   "magnesium": 30,
+   "omega3": 0.02
+  },
+  "diet": "vegan",
+  "allergens": [
+   "gluten"
+  ],
+  "color": "#E2C089",
+  "tags": [
+   "indian"
+  ]
+ },
+ {
+  "id": "makki_roti",
+  "name": "Makki Roti",
+  "category": "staple",
+  "grams": 60,
+  "serving": "1 roti",
+  "n": {
+   "kcal": 160,
+   "protein": 3.5,
+   "carbs": 28,
+   "fat": 4,
+   "fiber": 3,
+   "iron": 1,
+   "calcium": 6,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 0,
+   "folate": 10,
+   "zinc": 0.6,
+   "magnesium": 40,
+   "omega3": 0.02
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#E8B640",
+  "tags": [
+   "indian"
+  ]
+ },
+ {
+  "id": "rice",
+  "name": "Steamed Rice",
+  "category": "staple",
+  "grams": 150,
+  "serving": "1 katori",
+  "n": {
+   "kcal": 195,
+   "protein": 4,
+   "carbs": 43,
+   "fat": 0.4,
+   "fiber": 0.6,
+   "iron": 0.3,
+   "calcium": 8,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 0,
+   "folate": 4,
+   "zinc": 0.6,
+   "magnesium": 15,
+   "omega3": 0
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#FBF8EE",
+  "tags": [
+   "indian"
+  ]
+ },
+ {
+  "id": "jeera_rice",
+  "name": "Jeera Rice",
+  "category": "staple",
+  "grams": 150,
+  "serving": "1 katori",
+  "n": {
+   "kcal": 210,
+   "protein": 4,
+   "carbs": 40,
+   "fat": 4,
+   "fiber": 1,
+   "iron": 0.6,
+   "calcium": 10,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 0,
+   "folate": 5,
+   "zinc": 0.7,
+   "magnesium": 18,
+   "omega3": 0.01
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#F6EED2",
+  "tags": [
+   "indian"
+  ]
+ },
+ {
+  "id": "brown_rice",
+  "name": "Brown Rice",
+  "category": "staple",
+  "grams": 150,
+  "serving": "1 katori",
+  "n": {
+   "kcal": 170,
+   "protein": 4,
+   "carbs": 36,
+   "fat": 1.4,
+   "fiber": 2.7,
+   "iron": 0.6,
+   "calcium": 10,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 0,
+   "folate": 6,
+   "zinc": 0.9,
+   "magnesium": 60,
+   "omega3": 0.02
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#C9A878",
+  "tags": [
+   "high-fiber"
+  ]
+ },
+ {
+  "id": "egg_curry",
+  "name": "Egg Curry",
+  "category": "main",
+  "grams": 200,
+  "serving": "2 eggs",
+  "n": {
+   "kcal": 280,
+   "protein": 15,
+   "carbs": 10,
+   "fat": 20,
+   "fiber": 2,
+   "iron": 2.4,
+   "calcium": 80,
+   "vitD": 2.2,
+   "b12": 1.1,
+   "vitC": 8,
+   "folate": 60,
+   "zinc": 1.5,
+   "magnesium": 25,
+   "omega3": 0.1
+  },
+  "diet": "egg",
+  "allergens": [
+   "egg"
+  ],
+  "color": "#E2913C",
+  "tags": [
+   "indian",
+   "vitamin-d"
+  ]
+ },
+ {
+  "id": "chicken_curry",
+  "name": "Chicken Curry",
+  "category": "main",
+  "grams": 200,
+  "serving": "1 bowl",
+  "n": {
+   "kcal": 330,
+   "protein": 30,
+   "carbs": 8,
+   "fat": 19,
+   "fiber": 2,
+   "iron": 2,
+   "calcium": 40,
+   "vitD": 0.2,
+   "b12": 0.7,
+   "vitC": 6,
+   "folate": 20,
+   "zinc": 2.6,
+   "magnesium": 40,
+   "omega3": 0.1
+  },
+  "diet": "nonveg",
+  "allergens": [],
+  "color": "#C8642F",
+  "tags": [
+   "indian",
+   "high-protein"
+  ]
+ },
+ {
+  "id": "butter_chicken",
+  "name": "Butter Chicken",
+  "category": "main",
+  "grams": 200,
+  "serving": "1 bowl",
+  "n": {
+   "kcal": 440,
+   "protein": 30,
+   "carbs": 10,
+   "fat": 30,
+   "fiber": 2,
+   "iron": 1.8,
+   "calcium": 80,
+   "vitD": 0.3,
+   "b12": 0.7,
+   "vitC": 6,
+   "folate": 15,
+   "zinc": 2.5,
+   "magnesium": 40,
+   "omega3": 0.1
+  },
+  "diet": "nonveg",
+  "allergens": [
+   "dairy",
+   "nuts"
+  ],
+  "color": "#E66B33",
+  "tags": [
+   "indian",
+   "heavy"
+  ]
+ },
+ {
+  "id": "grilled_chicken",
+  "name": "Grilled Chicken Breast",
+  "category": "main",
+  "grams": 150,
+  "serving": "1 breast",
+  "n": {
+   "kcal": 250,
+   "protein": 46,
+   "carbs": 0,
+   "fat": 6,
+   "fiber": 0,
+   "iron": 1.4,
+   "calcium": 20,
+   "vitD": 0.2,
+   "b12": 0.5,
+   "vitC": 0,
+   "folate": 6,
+   "zinc": 1.5,
+   "magnesium": 45,
+   "omega3": 0.05
+  },
+  "diet": "nonveg",
+  "allergens": [],
+  "color": "#D9A06A",
+  "tags": [
+   "high-protein",
+   "lean"
+  ]
+ },
+ {
+  "id": "tandoori_chicken",
+  "name": "Tandoori Chicken",
+  "category": "main",
+  "grams": 200,
+  "serving": "2 pieces",
+  "n": {
+   "kcal": 300,
+   "protein": 40,
+   "carbs": 6,
+   "fat": 12,
+   "fiber": 1,
+   "iron": 2,
+   "calcium": 40,
+   "vitD": 0.2,
+   "b12": 0.6,
+   "vitC": 3,
+   "folate": 15,
+   "zinc": 2.6,
+   "magnesium": 45,
+   "omega3": 0.06
+  },
+  "diet": "nonveg",
+  "allergens": [
+   "dairy"
+  ],
+  "color": "#D4482F",
+  "tags": [
+   "indian",
+   "high-protein"
+  ]
+ },
+ {
+  "id": "chicken_biryani",
+  "name": "Chicken Biryani",
+  "category": "main",
+  "grams": 300,
+  "serving": "1 plate",
+  "n": {
+   "kcal": 520,
+   "protein": 28,
+   "carbs": 62,
+   "fat": 17,
+   "fiber": 3,
+   "iron": 2.5,
+   "calcium": 60,
+   "vitD": 0.2,
+   "b12": 0.6,
+   "vitC": 4,
+   "folate": 30,
+   "zinc": 2.5,
+   "magnesium": 50,
+   "omega3": 0.08
+  },
+  "diet": "nonveg",
+  "allergens": [
+   "dairy"
+  ],
+  "color": "#DE9440",
+  "tags": [
+   "indian"
+  ]
+ },
+ {
+  "id": "mutton_curry",
+  "name": "Mutton Curry",
+  "category": "main",
+  "grams": 200,
+  "serving": "1 bowl",
+  "n": {
+   "kcal": 400,
+   "protein": 32,
+   "carbs": 6,
+   "fat": 27,
+   "fiber": 1,
+   "iron": 3.6,
+   "calcium": 30,
+   "vitD": 0.1,
+   "b12": 2.6,
+   "vitC": 4,
+   "folate": 10,
+   "zinc": 6,
+   "magnesium": 35,
+   "omega3": 0.08
+  },
+  "diet": "nonveg",
+  "allergens": [],
+  "color": "#9C4A2B",
+  "tags": [
+   "indian",
+   "iron",
+   "b12"
+  ]
+ },
+ {
+  "id": "fish_curry",
+  "name": "Fish Curry",
+  "category": "main",
+  "grams": 200,
+  "serving": "1 bowl",
+  "n": {
+   "kcal": 260,
+   "protein": 28,
+   "carbs": 8,
+   "fat": 13,
+   "fiber": 2,
+   "iron": 1.6,
+   "calcium": 60,
+   "vitD": 6,
+   "b12": 2.4,
+   "vitC": 5,
+   "folate": 20,
+   "zinc": 1,
+   "magnesium": 50,
+   "omega3": 1.1
+  },
+  "diet": "nonveg",
+  "allergens": [
+   "seafood"
+  ],
+  "color": "#E5A03E",
+  "tags": [
+   "indian",
+   "omega-3",
+   "vitamin-d"
+  ]
+ },
+ {
+  "id": "fish_fry",
+  "name": "Fish Fry",
+  "category": "main",
+  "grams": 120,
+  "serving": "2 pieces",
+  "n": {
+   "kcal": 270,
+   "protein": 24,
+   "carbs": 8,
+   "fat": 16,
+   "fiber": 0.5,
+   "iron": 1.2,
+   "calcium": 50,
+   "vitD": 5,
+   "b12": 2,
+   "vitC": 0,
+   "folate": 15,
+   "zinc": 0.8,
+   "magnesium": 35,
+   "omega3": 0.8
+  },
+  "diet": "nonveg",
+  "allergens": [
+   "seafood"
+  ],
+  "color": "#C98A3D",
+  "tags": [
+   "omega-3",
+   "vitamin-d"
+  ]
+ },
+ {
+  "id": "salmon",
+  "name": "Grilled Salmon",
+  "category": "main",
+  "grams": 150,
+  "serving": "1 fillet",
+  "n": {
+   "kcal": 310,
+   "protein": 33,
+   "carbs": 0,
+   "fat": 19,
+   "fiber": 0,
+   "iron": 0.8,
+   "calcium": 15,
+   "vitD": 14,
+   "b12": 4.2,
+   "vitC": 0,
+   "folate": 40,
+   "zinc": 0.6,
+   "magnesium": 45,
+   "omega3": 2.3
+  },
+  "diet": "nonveg",
+  "allergens": [
+   "seafood"
+  ],
+  "color": "#F08B6A",
+  "tags": [
+   "omega-3",
+   "vitamin-d",
+   "b12"
+  ]
+ },
+ {
+  "id": "prawn_curry",
+  "name": "Prawn Curry",
+  "category": "main",
+  "grams": 200,
+  "serving": "1 bowl",
+  "n": {
+   "kcal": 250,
+   "protein": 24,
+   "carbs": 8,
+   "fat": 13,
+   "fiber": 2,
+   "iron": 2.4,
+   "calcium": 90,
+   "vitD": 0.1,
+   "b12": 1.4,
+   "vitC": 6,
+   "folate": 20,
+   "zinc": 1.6,
+   "magnesium": 50,
+   "omega3": 0.4
+  },
+  "diet": "nonveg",
+  "allergens": [
+   "seafood"
+  ],
+  "color": "#EA7C4F",
+  "tags": [
+   "indian"
+  ]
+ },
+ {
+  "id": "chicken_quinoa",
+  "name": "Grilled Chicken Quinoa Bowl",
+  "category": "main",
+  "grams": 300,
+  "serving": "1 bowl",
+  "n": {
+   "kcal": 450,
+   "protein": 38,
+   "carbs": 38,
+   "fat": 14,
+   "fiber": 6,
+   "iron": 3.2,
+   "calcium": 50,
+   "vitD": 0.2,
+   "b12": 0.4,
+   "vitC": 20,
+   "folate": 60,
+   "zinc": 2.8,
+   "magnesium": 110,
+   "omega3": 0.1
+  },
+  "diet": "nonveg",
+  "allergens": [],
+  "color": "#C3B26C",
+  "tags": [
+   "high-protein"
+  ]
+ },
+ {
+  "id": "caesar_salad",
+  "name": "Chicken Caesar Salad",
+  "category": "main",
+  "grams": 250,
+  "serving": "1 bowl",
+  "n": {
+   "kcal": 380,
+   "protein": 30,
+   "carbs": 12,
+   "fat": 24,
+   "fiber": 4,
+   "iron": 2,
+   "calcium": 140,
+   "vitD": 0.3,
+   "b12": 0.6,
+   "vitC": 20,
+   "folate": 90,
+   "zinc": 2,
+   "magnesium": 40,
+   "omega3": 0.1
+  },
+  "diet": "nonveg",
+  "allergens": [
+   "dairy",
+   "gluten",
+   "egg"
+  ],
+  "color": "#B8D477",
+  "tags": []
+ },
+ {
+  "id": "egg_sandwich",
+  "name": "Egg Sandwich",
+  "category": "snack",
+  "grams": 160,
+  "serving": "1 sandwich",
+  "n": {
+   "kcal": 340,
+   "protein": 17,
+   "carbs": 32,
+   "fat": 15,
+   "fiber": 3,
+   "iron": 2.6,
+   "calcium": 120,
+   "vitD": 1.6,
+   "b12": 0.8,
+   "vitC": 4,
+   "folate": 60,
+   "zinc": 1.6,
+   "magnesium": 30,
+   "omega3": 0.06
+  },
+  "diet": "egg",
+  "allergens": [
+   "gluten",
+   "egg"
+  ],
+  "color": "#F0D36E",
+  "tags": []
+ },
+ {
+  "id": "chicken_momos",
+  "name": "Chicken Momos (6)",
+  "category": "snack",
+  "grams": 180,
+  "serving": "6 pieces",
+  "n": {
+   "kcal": 320,
+   "protein": 18,
+   "carbs": 38,
+   "fat": 10,
+   "fiber": 2,
+   "iron": 1.8,
+   "calcium": 30,
+   "vitD": 0.1,
+   "b12": 0.3,
+   "vitC": 4,
+   "folate": 25,
+   "zinc": 1.6,
+   "magnesium": 30,
+   "omega3": 0.03
+  },
+  "diet": "nonveg",
+  "allergens": [
+   "gluten"
+  ],
+  "color": "#F4EDE0",
+  "tags": [
+   "street"
+  ]
+ },
+ {
+  "id": "chicken_burger",
+  "name": "Chicken Burger",
+  "category": "junk",
+  "grams": 200,
+  "serving": "1 burger",
+  "n": {
+   "kcal": 480,
+   "protein": 25,
+   "carbs": 45,
+   "fat": 22,
+   "fiber": 3,
+   "iron": 3,
+   "calcium": 90,
+   "vitD": 0.2,
+   "b12": 0.4,
+   "vitC": 3,
+   "folate": 40,
+   "zinc": 2,
+   "magnesium": 40,
+   "omega3": 0.06
+  },
+  "diet": "nonveg",
+  "allergens": [
+   "gluten",
+   "egg"
+  ],
+  "color": "#C88A44",
+  "tags": [
+   "fast-food"
+  ]
+ },
+ {
+  "id": "roasted_chana",
+  "name": "Roasted Chana",
+  "category": "snack",
+  "grams": 40,
+  "serving": "1 handful",
+  "n": {
+   "kcal": 150,
+   "protein": 8,
+   "carbs": 24,
+   "fat": 2.5,
+   "fiber": 6,
+   "iron": 2,
+   "calcium": 24,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 0,
+   "folate": 80,
+   "zinc": 1.2,
+   "magnesium": 60,
+   "omega3": 0.03
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#C99245",
+  "tags": [
+   "high-protein",
+   "iron"
+  ]
+ },
+ {
+  "id": "makhana",
+  "name": "Roasted Makhana",
+  "category": "snack",
+  "grams": 30,
+  "serving": "1 bowl",
+  "n": {
+   "kcal": 110,
+   "protein": 3,
+   "carbs": 20,
+   "fat": 1,
+   "fiber": 4,
+   "iron": 0.5,
+   "calcium": 15,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 0,
+   "folate": 5,
+   "zinc": 0.3,
+   "magnesium": 60,
+   "omega3": 0
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#F4EFE2",
+  "tags": [
+   "light"
+  ]
+ },
+ {
+  "id": "almonds",
+  "name": "Almonds (15)",
+  "category": "snack",
+  "grams": 20,
+  "serving": "15 almonds",
+  "n": {
+   "kcal": 115,
+   "protein": 4.2,
+   "carbs": 4.3,
+   "fat": 10,
+   "fiber": 2.5,
+   "iron": 0.7,
+   "calcium": 54,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 0,
+   "folate": 10,
+   "zinc": 0.6,
+   "magnesium": 54,
+   "omega3": 0
+  },
+  "diet": "vegan",
+  "allergens": [
+   "nuts"
+  ],
+  "color": "#B07A4E",
+  "tags": [
+   "healthy-fat"
+  ]
+ },
+ {
+  "id": "walnuts",
+  "name": "Walnuts (5)",
+  "category": "snack",
+  "grams": 20,
+  "serving": "5 halves",
+  "n": {
+   "kcal": 130,
+   "protein": 3,
+   "carbs": 2.7,
+   "fat": 13,
+   "fiber": 1.3,
+   "iron": 0.6,
+   "calcium": 20,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 0,
+   "folate": 20,
+   "zinc": 0.6,
+   "magnesium": 32,
+   "omega3": 1.8
+  },
+  "diet": "vegan",
+  "allergens": [
+   "nuts"
+  ],
+  "color": "#A9805A",
+  "tags": [
+   "omega-3",
+   "healthy-fat"
+  ]
+ },
+ {
+  "id": "peanut_chikki",
+  "name": "Peanut Chikki",
+  "category": "snack",
+  "grams": 30,
+  "serving": "1 bar",
+  "n": {
+   "kcal": 150,
+   "protein": 4,
+   "carbs": 16,
+   "fat": 8,
+   "fiber": 1.5,
+   "iron": 1,
+   "calcium": 15,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 0,
+   "folate": 20,
+   "zinc": 0.6,
+   "magnesium": 35,
+   "omega3": 0
+  },
+  "diet": "vegan",
+  "allergens": [
+   "nuts"
+  ],
+  "color": "#C08A3E",
+  "tags": []
+ },
+ {
+  "id": "dates",
+  "name": "Dates (3)",
+  "category": "snack",
+  "grams": 24,
+  "serving": "3 dates",
+  "n": {
+   "kcal": 70,
+   "protein": 0.6,
+   "carbs": 18,
+   "fat": 0,
+   "fiber": 2,
+   "iron": 0.3,
+   "calcium": 15,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 0,
+   "folate": 4,
+   "zinc": 0.1,
+   "magnesium": 13,
+   "omega3": 0
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#7A4630",
+  "tags": [
+   "iron"
+  ]
+ },
+ {
+  "id": "jaggery",
+  "name": "Jaggery (gur)",
+  "category": "snack",
+  "grams": 15,
+  "serving": "1 piece",
+  "n": {
+   "kcal": 57,
+   "protein": 0,
+   "carbs": 14,
+   "fat": 0,
+   "fiber": 0,
+   "iron": 1.6,
+   "calcium": 12,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 0,
+   "folate": 0,
+   "zinc": 0,
+   "magnesium": 10,
+   "omega3": 0
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#B5772C",
+  "tags": [
+   "iron"
+  ]
+ },
+ {
+  "id": "dark_chocolate",
+  "name": "Dark Chocolate (70%)",
+  "category": "snack",
+  "grams": 20,
+  "serving": "2 squares",
+  "n": {
+   "kcal": 120,
+   "protein": 1.5,
+   "carbs": 9,
+   "fat": 8.5,
+   "fiber": 2,
+   "iron": 2.4,
+   "calcium": 15,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 0,
+   "folate": 0,
+   "zinc": 0.7,
+   "magnesium": 45,
+   "omega3": 0
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#4A2C22",
+  "tags": [
+   "iron"
+  ]
+ },
+ {
+  "id": "dhokla",
+  "name": "Dhokla (4)",
+  "category": "snack",
+  "grams": 120,
+  "serving": "4 pieces",
+  "n": {
+   "kcal": 160,
+   "protein": 6,
+   "carbs": 26,
+   "fat": 4,
+   "fiber": 2,
+   "iron": 1.2,
+   "calcium": 30,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 1,
+   "folate": 30,
+   "zinc": 0.5,
+   "magnesium": 30,
+   "omega3": 0.02
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#F1D35A",
+  "tags": [
+   "indian",
+   "fermented"
+  ]
+ },
+ {
+  "id": "bhel",
+  "name": "Bhel Puri",
+  "category": "snack",
+  "grams": 120,
+  "serving": "1 plate",
+  "n": {
+   "kcal": 230,
+   "protein": 5,
+   "carbs": 38,
+   "fat": 7,
+   "fiber": 4,
+   "iron": 1.6,
+   "calcium": 25,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 12,
+   "folate": 30,
+   "zinc": 0.6,
+   "magnesium": 35,
+   "omega3": 0.03
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#E5BE6B",
+  "tags": [
+   "street"
+  ]
+ },
+ {
+  "id": "veg_sandwich",
+  "name": "Grilled Veg Sandwich",
+  "category": "snack",
+  "grams": 170,
+  "serving": "1 sandwich",
+  "n": {
+   "kcal": 300,
+   "protein": 9,
+   "carbs": 40,
+   "fat": 11,
+   "fiber": 5,
+   "iron": 2,
+   "calcium": 150,
+   "vitD": 0,
+   "b12": 0.2,
+   "vitC": 15,
+   "folate": 50,
+   "zinc": 1,
+   "magnesium": 35,
+   "omega3": 0.03
+  },
+  "diet": "veg",
+  "allergens": [
+   "gluten",
+   "dairy"
+  ],
+  "color": "#D8B26C",
+  "tags": []
+ },
+ {
+  "id": "veg_momos",
+  "name": "Veg Momos (6)",
+  "category": "snack",
+  "grams": 180,
+  "serving": "6 pieces",
+  "n": {
+   "kcal": 270,
+   "protein": 8,
+   "carbs": 42,
+   "fat": 7,
+   "fiber": 3,
+   "iron": 1.6,
+   "calcium": 40,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 8,
+   "folate": 30,
+   "zinc": 0.6,
+   "magnesium": 25,
+   "omega3": 0.02
+  },
+  "diet": "vegan",
+  "allergens": [
+   "gluten"
+  ],
+  "color": "#F6F0E4",
+  "tags": [
+   "street"
+  ]
+ },
+ {
+  "id": "samosa",
+  "name": "Samosa",
+  "category": "junk",
+  "grams": 80,
+  "serving": "1 piece",
+  "n": {
+   "kcal": 260,
+   "protein": 4,
+   "carbs": 24,
+   "fat": 17,
+   "fiber": 2,
+   "iron": 1,
+   "calcium": 15,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 4,
+   "folate": 15,
+   "zinc": 0.4,
+   "magnesium": 15,
+   "omega3": 0.02
+  },
+  "diet": "vegan",
+  "allergens": [
+   "gluten"
+  ],
+  "color": "#D59A45",
+  "tags": [
+   "fried",
+   "street"
+  ]
+ },
+ {
+  "id": "vada_pav",
+  "name": "Vada Pav",
+  "category": "junk",
+  "grams": 140,
+  "serving": "1 piece",
+  "n": {
+   "kcal": 290,
+   "protein": 6,
+   "carbs": 40,
+   "fat": 12,
+   "fiber": 3,
+   "iron": 1.6,
+   "calcium": 40,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 6,
+   "folate": 25,
+   "zinc": 0.6,
+   "magnesium": 25,
+   "omega3": 0.02
+  },
+  "diet": "vegan",
+  "allergens": [
+   "gluten"
+  ],
+  "color": "#D9A24C",
+  "tags": [
+   "fried",
+   "street"
+  ]
+ },
+ {
+  "id": "pani_puri",
+  "name": "Pani Puri (6)",
+  "category": "junk",
+  "grams": 120,
+  "serving": "6 puris",
+  "n": {
+   "kcal": 220,
+   "protein": 4,
+   "carbs": 34,
+   "fat": 8,
+   "fiber": 3,
+   "iron": 1.2,
+   "calcium": 20,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 8,
+   "folate": 30,
+   "zinc": 0.5,
+   "magnesium": 20,
+   "omega3": 0.02
+  },
+  "diet": "vegan",
+  "allergens": [
+   "gluten"
+  ],
+  "color": "#E6C27A",
+  "tags": [
+   "street"
+  ]
+ },
+ {
+  "id": "pav_bhaji",
+  "name": "Pav Bhaji",
+  "category": "junk",
+  "grams": 300,
+  "serving": "1 plate",
+  "n": {
+   "kcal": 480,
+   "protein": 11,
+   "carbs": 62,
+   "fat": 21,
+   "fiber": 8,
+   "iron": 2.6,
+   "calcium": 90,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 30,
+   "folate": 60,
+   "zinc": 1.4,
+   "magnesium": 60,
+   "omega3": 0.05
+  },
+  "diet": "veg",
+  "allergens": [
+   "gluten",
+   "dairy"
+  ],
+  "color": "#D8582F",
+  "tags": [
+   "street"
+  ]
+ },
+ {
+  "id": "chole_bhature",
+  "name": "Chole Bhature",
+  "category": "junk",
+  "grams": 300,
+  "serving": "1 plate",
+  "n": {
+   "kcal": 650,
+   "protein": 16,
+   "carbs": 72,
+   "fat": 32,
+   "fiber": 8,
+   "iron": 4,
+   "calcium": 90,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 4,
+   "folate": 150,
+   "zinc": 2,
+   "magnesium": 70,
+   "omega3": 0.1
+  },
+  "diet": "veg",
+  "allergens": [
+   "gluten",
+   "dairy"
+  ],
+  "color": "#C9853A",
+  "tags": [
+   "fried",
+   "heavy"
+  ]
+ },
+ {
+  "id": "pizza",
+  "name": "Margherita Pizza (2 slices)",
+  "category": "junk",
+  "grams": 220,
+  "serving": "2 slices",
+  "n": {
+   "kcal": 540,
+   "protein": 22,
+   "carbs": 66,
+   "fat": 20,
+   "fiber": 3,
+   "iron": 3,
+   "calcium": 380,
+   "vitD": 0.2,
+   "b12": 0.8,
+   "vitC": 4,
+   "folate": 60,
+   "zinc": 2.5,
+   "magnesium": 40,
+   "omega3": 0.05
+  },
+  "diet": "veg",
+  "allergens": [
+   "gluten",
+   "dairy"
+  ],
+  "color": "#E14F35",
+  "tags": [
+   "fast-food"
+  ]
+ },
+ {
+  "id": "veg_burger",
+  "name": "Veg Burger",
+  "category": "junk",
+  "grams": 190,
+  "serving": "1 burger",
+  "n": {
+   "kcal": 420,
+   "protein": 11,
+   "carbs": 52,
+   "fat": 18,
+   "fiber": 4,
+   "iron": 2.6,
+   "calcium": 120,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 4,
+   "folate": 50,
+   "zinc": 1.2,
+   "magnesium": 40,
+   "omega3": 0.05
+  },
+  "diet": "veg",
+  "allergens": [
+   "gluten",
+   "dairy"
+  ],
+  "color": "#C78B49",
+  "tags": [
+   "fast-food"
+  ]
+ },
+ {
+  "id": "fries",
+  "name": "French Fries (medium)",
+  "category": "junk",
+  "grams": 117,
+  "serving": "1 medium",
+  "n": {
+   "kcal": 365,
+   "protein": 4,
+   "carbs": 48,
+   "fat": 17,
+   "fiber": 4,
+   "iron": 0.9,
+   "calcium": 19,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 6,
+   "folate": 45,
+   "zinc": 0.6,
+   "magnesium": 40,
+   "omega3": 0.1
+  },
+  "diet": "vegan",
+  "allergens": [],
+  "color": "#F2C14E",
+  "tags": [
+   "fried",
+   "fast-food"
+  ]
+ },
+ {
+  "id": "pasta_white",
+  "name": "White Sauce Pasta",
+  "category": "junk",
+  "grams": 250,
+  "serving": "1 plate",
+  "n": {
+   "kcal": 480,
+   "protein": 15,
+   "carbs": 58,
+   "fat": 21,
+   "fiber": 3,
+   "iron": 1.6,
+   "calcium": 220,
+   "vitD": 0.4,
+   "b12": 0.6,
+   "vitC": 4,
+   "folate": 40,
+   "zinc": 1.4,
+   "magnesium": 40,
+   "omega3": 0.05
+  },
+  "diet": "veg",
+  "allergens": [
+   "gluten",
+   "dairy"
+  ],
+  "color": "#F2E6C4",
+  "tags": [
+   "heavy"
+  ]
+ },
+ {
+  "id": "pasta_red",
+  "name": "Arrabbiata Pasta",
+  "category": "main",
+  "grams": 250,
+  "serving": "1 plate",
+  "n": {
+   "kcal": 390,
+   "protein": 12,
+   "carbs": 64,
+   "fat": 10,
+   "fiber": 5,
+   "iron": 2.4,
+   "calcium": 50,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 15,
+   "folate": 60,
+   "zinc": 1.2,
+   "magnesium": 60,
+   "omega3": 0.05
+  },
+  "diet": "vegan",
+  "allergens": [
+   "gluten"
+  ],
+  "color": "#D9483A",
+  "tags": []
+ },
+ {
+  "id": "maggi",
+  "name": "Instant Noodles",
+  "category": "junk",
+  "grams": 300,
+  "serving": "1 pack",
+  "n": {
+   "kcal": 350,
+   "protein": 8,
+   "carbs": 50,
+   "fat": 13,
+   "fiber": 2,
+   "iron": 2.5,
+   "calcium": 20,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 0,
+   "folate": 30,
+   "zinc": 0.6,
+   "magnesium": 20,
+   "omega3": 0
+  },
+  "diet": "vegan",
+  "allergens": [
+   "gluten"
+  ],
+  "color": "#F0C94A",
+  "tags": [
+   "processed"
+  ]
+ },
+ {
+  "id": "hakka_noodles",
+  "name": "Hakka Noodles",
+  "category": "junk",
+  "grams": 250,
+  "serving": "1 plate",
+  "n": {
+   "kcal": 420,
+   "protein": 9,
+   "carbs": 58,
+   "fat": 16,
+   "fiber": 3,
+   "iron": 2,
+   "calcium": 30,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 15,
+   "folate": 40,
+   "zinc": 0.8,
+   "magnesium": 30,
+   "omega3": 0.03
+  },
+  "diet": "vegan",
+  "allergens": [
+   "gluten",
+   "soy"
+  ],
+  "color": "#D6A55A",
+  "tags": []
+ },
+ {
+  "id": "fried_rice",
+  "name": "Veg Fried Rice",
+  "category": "junk",
+  "grams": 250,
+  "serving": "1 plate",
+  "n": {
+   "kcal": 390,
+   "protein": 8,
+   "carbs": 62,
+   "fat": 12,
+   "fiber": 3,
+   "iron": 1.4,
+   "calcium": 30,
+   "vitD": 0,
+   "b12": 0,
+   "vitC": 8,
+   "folate": 25,
+   "zinc": 0.9,
+   "magnesium": 30,
+   "omega3": 0.03
+  },
+  "diet": "vegan",
+  "allergens": [
+   "soy"
+  ],
+  "color": "#E1C27A",
+  "tags": []
+ },
+ {
+  "id": "gulab_jamun",
+  "name": "Gulab Jamun (2)",
+  "category": "dessert",
+  "grams": 80,
+  "serving": "2 pieces",
+  "n": {
+   "kcal": 300,
+   "protein": 4,
+   "carbs": 46,
+   "fat": 12,
+   "fiber": 0.5,
+   "iron": 0.6,
+   "calcium": 80,
+   "vitD": 0,
+   "b12": 0.2,
+   "vitC": 0,
+   "folate": 5,
+   "zinc": 0.3,
+   "magnesium": 10,
+   "omega3": 0
+  },
+  "diet": "veg",
+  "allergens": [
+   "dairy",
+   "gluten"
+  ],
+  "color": "#8C3B24",
+  "tags": [
+   "sugary"
+  ]
+ },
+ {
+  "id": "kheer",
+  "name": "Rice Kheer",
+  "category": "dessert",
+  "grams": 150,
+  "serving": "1 bowl",
+  "n": {
+   "kcal": 250,
+   "protein": 7,
+   "carbs": 38,
+   "fat": 8,
+   "fiber": 0.5,
+   "iron": 0.3,
+   "calcium": 220,
+   "vitD": 0.3,
+   "b12": 0.6,
+   "vitC": 1,
+   "folate": 10,
+   "zinc": 0.8,
+   "magnesium": 25,
+   "omega3": 0
+  },
+  "diet": "veg",
+  "allergens": [
+   "dairy",
+   "nuts"
+  ],
+  "color": "#F7EED8",
+  "tags": [
+   "sugary"
+  ]
+ },
+ {
+  "id": "ice_cream",
+  "name": "Ice Cream (1 scoop)",
+  "category": "dessert",
+  "grams": 70,
+  "serving": "1 scoop",
+  "n": {
+   "kcal": 140,
+   "protein": 2.5,
+   "carbs": 16,
+   "fat": 7,
+   "fiber": 0.5,
+   "iron": 0.1,
+   "calcium": 90,
+   "vitD": 0.1,
+   "b12": 0.3,
+   "vitC": 0,
+   "folate": 5,
+   "zinc": 0.4,
+   "magnesium": 10,
+   "omega3": 0
+  },
+  "diet": "veg",
+  "allergens": [
+   "dairy"
+  ],
+  "color": "#F6D9E2",
+  "tags": [
+   "sugary"
+  ]
+ }
+]

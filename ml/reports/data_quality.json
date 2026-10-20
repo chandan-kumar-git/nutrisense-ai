@@ -1,0 +1,22 @@
+{
+  "rows_in": 121217,
+  "names_fixed_by_fuzzy_match": 1809,
+  "unresolved_dropped": 1176,
+  "unresolved_examples": [
+    "baanna",
+    "bnaana",
+    "canteen thali",
+    "ghar ka khana",
+    "hostel mess curry",
+    "leftover pulao",
+    "mom's special sabzi",
+    "roadside chaat"
+  ],
+  "duplicates_removed": 3496,
+  "missing_servings": 2322,
+  "impossible_servings": 719,
+  "rows_out": 116545,
+  "rows_removed_total": 4672,
+  "users": 1200,
+  "scan_confidence_mean": 0.9
+}

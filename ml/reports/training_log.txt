@@ -1,0 +1,56 @@
+2026-10-19 21:44:28 | simulate    | INFO | users=1200  food_log_rows=121217 (incl. 1165 unknown, 3496 duplicate)  suggestions=173625
+2026-10-19 21:44:58 | clean       | INFO | rows 121217 → 116488 | fuzzy-fixed 1752 | unresolved 1233 | duplicates 3496 | missing portions 2321 | impossible portions 719
+2026-10-19 21:45:12 | clean       | INFO | rows 121217 -> 116545 | fuzzy-fixed 1809 | unresolved 1176 | duplicates 3496 | missing portions 2322 | impossible portions 719
+2026-10-19 21:46:29 | features    | INFO | gap dataset (2400, 49) | recommender dataset (86880, 28) (accept rate 0.447)
+2026-10-19 21:46:29 | features    | INFO | label balance (0 adequate / 1 attention / 2 priority): {'iron': {2: 0.622, 1: 0.362, 0: 0.017}, 'vitD': {2: 0.985, 1: 0.012, 0: 0.003}, 'b12': {2: 0.641, 1: 0.241, 0: 0.118}, 'calcium': {1: 0.515, 2: 0.422, 0: 0.063}, 'protein': {1: 0.448, 0: 0.404, 2: 0.148}, 'fiber': {0: 0.634, 1: 0.315, 2: 0.051}}
+2026-10-19 21:47:13 | train_gap   | INFO | gap model: 35 features | train 1920 rows (960 users) | test 480 rows (240 users)
+2026-10-19 21:47:13 | train_gap   | INFO | rule_baseline        test mean macro-F1 0.614
+2026-10-19 21:47:15 | train_gap   | INFO | logistic_regression  cv macro-F1 0.611 ± 0.007 | test 0.585 | fit 0.6s
+2026-10-19 21:47:53 | train_gap   | INFO | random_forest        cv macro-F1 0.595 ± 0.009 | test 0.603 | fit 8.6s
+2026-10-19 21:51:23 | train_gap   | INFO | gradient_boosting    cv macro-F1 0.593 ± 0.006 | test 0.598 | fit 55.5s
+2026-10-19 21:51:33 | train_gap   | INFO | neural_network_mlp   cv macro-F1 0.557 ± 0.018 | test 0.578 | fit 3.2s
+2026-10-19 21:51:33 | train_gap   | INFO | selected logistic_regression | test macro-F1 0.585 (-0.029 vs rule baseline) -> models/gap_model.joblib
+2026-10-19 21:52:09 | train_gap   | INFO | gap model: 35 features | train 1920 rows (960 users) | test 480 rows (240 users)
+2026-10-19 21:52:09 | train_gap   | INFO | rule_baseline        test mean macro-F1 0.614
+2026-10-19 21:52:12 | train_gap   | INFO | logistic_regression  cv macro-F1 0.611 ± 0.007 | test 0.585 | fit 0.6s
+2026-10-19 21:52:58 | train_gap   | INFO | random_forest        cv macro-F1 0.595 ± 0.009 | test 0.603 | fit 9.3s
+2026-10-19 21:56:05 | train_gap   | INFO | gradient_boosting    cv macro-F1 0.593 ± 0.006 | test 0.598 | fit 40.3s
+2026-10-19 21:56:13 | train_gap   | INFO | neural_network_mlp   cv macro-F1 0.557 ± 0.018 | test 0.578 | fit 2.4s
+2026-10-19 21:56:13 | train_gap   | INFO | ridge_share_regression cv macro-F1 0.628 ± 0.022 | test 0.610 | share MAE 0.103 | fit 0.0s
+2026-10-19 21:56:36 | train_gap   | INFO | gbm_share_regression cv macro-F1 0.596 ± 0.012 | test 0.594 | share MAE 0.107 | fit 6.0s
+2026-10-19 21:56:45 | train_gap   | INFO | mlp_share_regression cv macro-F1 0.564 ± 0.020 | test 0.607 | share MAE 0.125 | fit 2.5s
+2026-10-19 21:56:45 | train_gap   | INFO | rule_baseline        share MAE 0.131 (3-day average used as the forecast)
+2026-10-19 21:56:45 | train_gap   | INFO | selected ridge_share_regression | test macro-F1 0.610 (-0.004 vs rule baseline) -> models/gap_model.joblib
+2026-10-19 21:57:35 | train_rec   | INFO | recommender: 22 features | train 69564 impressions | test 17316 impressions | accept rate 0.447
+2026-10-19 21:57:35 | train_rec   | INFO | popularity_baseline  AUC 0.556 | hit@1 0.474 (random pick 0.445)
+2026-10-19 21:57:36 | train_rec   | INFO | logistic_regression  AUC 0.643 | log-loss 0.654 | hit@1 0.551 | fit 0.2s
+2026-10-19 21:57:37 | train_rec   | INFO | gradient_boosting    AUC 0.647 | log-loss 0.652 | hit@1 0.556 | fit 1.4s
+2026-10-19 21:57:53 | train_rec   | INFO | neural_network_mlp   AUC 0.638 | log-loss 0.657 | hit@1 0.549 | fit 16.4s
+2026-10-19 21:57:55 | train_rec   | INFO | selected gradient_boosting -> models/recommender_model.joblib | top features: ['times_eaten', 'kcal_x_lose', 'position', 'goal_lose', 'm_prep_min']
+2026-10-19 21:59:25 | pipeline    | INFO | ======================================================================
+2026-10-19 21:59:25 | pipeline    | INFO | NutriSense AI pipeline · seed 2026 · starting at 'train_gap'
+2026-10-19 21:59:25 | pipeline    | INFO | --- train_gap ---
+2026-10-19 21:59:25 | train_gap   | INFO | gap model: 35 features | train 1920 rows (960 users) | test 480 rows (240 users)
+2026-10-19 21:59:25 | train_gap   | INFO | rule_baseline        test mean macro-F1 0.614
+2026-10-19 21:59:27 | train_gap   | INFO | logistic_regression  cv macro-F1 0.611 ± 0.007 | test 0.585 | fit 0.5s
+2026-10-19 22:00:04 | train_gap   | INFO | random_forest        cv macro-F1 0.595 ± 0.009 | test 0.603 | fit 8.7s
+2026-10-19 22:02:44 | train_gap   | INFO | gradient_boosting    cv macro-F1 0.593 ± 0.006 | test 0.598 | fit 38.2s
+2026-10-19 22:02:52 | train_gap   | INFO | neural_network_mlp   cv macro-F1 0.557 ± 0.018 | test 0.578 | fit 2.4s
+2026-10-19 22:02:52 | train_gap   | INFO | ridge_share_regression cv macro-F1 0.628 ± 0.022 | test 0.610 | share MAE 0.103 | fit 0.0s
+2026-10-19 22:03:17 | train_gap   | INFO | gbm_share_regression cv macro-F1 0.596 ± 0.012 | test 0.594 | share MAE 0.107 | fit 6.4s
+2026-10-19 22:03:25 | train_gap   | INFO | mlp_share_regression cv macro-F1 0.564 ± 0.020 | test 0.607 | share MAE 0.125 | fit 2.3s
+2026-10-19 22:03:25 | train_gap   | INFO | rule_baseline        share MAE 0.131 (3-day average used as the forecast)
+2026-10-19 22:03:25 | train_gap   | INFO | selected ridge_share_regression | test macro-F1 0.610 (-0.004 vs rule baseline) -> models/gap_model.joblib
+2026-10-19 22:03:25 | pipeline    | INFO | --- train_gap done in 240.1s ---
+2026-10-19 22:03:25 | pipeline    | INFO | --- train_recommender ---
+2026-10-19 22:03:26 | train_rec   | INFO | recommender: 22 features | train 69564 impressions | test 17316 impressions | accept rate 0.447
+2026-10-19 22:03:26 | train_rec   | INFO | popularity_baseline  AUC 0.556 | hit@1 0.474 (random pick 0.445)
+2026-10-19 22:03:26 | train_rec   | INFO | logistic_regression  AUC 0.643 | log-loss 0.654 | hit@1 0.551 | fit 0.3s
+2026-10-19 22:03:28 | train_rec   | INFO | gradient_boosting    AUC 0.647 | log-loss 0.652 | hit@1 0.556 | fit 1.6s
+2026-10-19 22:03:44 | train_rec   | INFO | neural_network_mlp   AUC 0.638 | log-loss 0.657 | hit@1 0.549 | fit 15.8s
+2026-10-19 22:03:45 | train_rec   | INFO | selected gradient_boosting -> models/recommender_model.joblib | top features: ['times_eaten', 'kcal_x_lose', 'position', 'goal_lose', 'm_prep_min']
+2026-10-19 22:03:45 | pipeline    | INFO | --- train_recommender done in 20.1s ---
+2026-10-19 22:03:45 | pipeline    | INFO | --- report ---
+2026-10-19 22:03:48 | report      | INFO | figures -> reports/figures (7 files) | model card -> models/MODEL_CARD.md
+2026-10-19 22:03:48 | pipeline    | INFO | --- report done in 2.8s ---
+2026-10-19 22:03:48 | pipeline    | INFO | pipeline finished in 262.9s

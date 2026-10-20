@@ -1,0 +1,83 @@
+{
+  "task": "P(user accepts a suggested meal)",
+  "selected_model": "gradient_boosting",
+  "selection_metric": "test ROC-AUC",
+  "features": [
+    "position",
+    "times_eaten",
+    "taste_similarity",
+    "u_avg_kcal",
+    "u_junk_share",
+    "m_kcal",
+    "m_protein",
+    "m_fiber",
+    "m_prep_min",
+    "m_type_breakfast",
+    "m_type_main",
+    "m_type_snack",
+    "goal_lose",
+    "goal_maintain",
+    "goal_gain",
+    "diet_veg",
+    "diet_nonveg",
+    "male",
+    "age",
+    "bmi",
+    "kcal_x_lose",
+    "protein_x_gain"
+  ],
+  "n_train": 69564,
+  "n_test": 17316,
+  "results": {
+    "popularity_baseline": {
+      "auc": 0.5562,
+      "log_loss": 0.6822,
+      "hit_at_1": 0.4738
+    },
+    "random_pick": {
+      "hit_at_1": 0.4451
+    },
+    "logistic_regression": {
+      "auc": 0.6432,
+      "log_loss": 0.6542,
+      "hit_at_1": 0.5515,
+      "fit_seconds": 0.3
+    },
+    "gradient_boosting": {
+      "auc": 0.6469,
+      "log_loss": 0.652,
+      "hit_at_1": 0.5556,
+      "fit_seconds": 1.6
+    },
+    "neural_network_mlp": {
+      "auc": 0.6384,
+      "log_loss": 0.6569,
+      "hit_at_1": 0.5487,
+      "fit_seconds": 15.8
+    }
+  },
+  "feature_importance": {
+    "times_eaten": 0.0713,
+    "kcal_x_lose": 0.0329,
+    "position": 0.0307,
+    "goal_lose": 0.0112,
+    "m_prep_min": 0.0076,
+    "protein_x_gain": 0.0058,
+    "taste_similarity": 0.0027,
+    "m_protein": 0.0022,
+    "goal_maintain": 0.0011,
+    "m_type_main": 0.0009,
+    "m_fiber": 0.0007,
+    "m_kcal": 0.0004,
+    "goal_gain": 0.0004,
+    "diet_nonveg": 0.0003,
+    "m_type_breakfast": 0.0,
+    "m_type_snack": 0.0,
+    "male": 0.0,
+    "u_junk_share": -0.0001,
+    "diet_veg": -0.0001,
+    "u_avg_kcal": -0.0002,
+    "age": -0.0004,
+    "bmi": -0.0007
+  }
+}
